@@ -1,0 +1,242 @@
+egg
+eggs
+bacon
+cheese
+cheddar cheese
+mozzarella
+parmesan
+cream cheese
+cream
+butter
+milk
+yogurt
+sour cream
+ice cream
+vanilla
+sugar
+brown sugar
+powdered sugar
+honey
+maple syrup
+flour
+all purpose flour
+wheat flour
+rice flour
+corn flour
+cornstarch
+baking powder
+baking soda
+yeast
+salt
+pepper
+black pepper
+olive oil
+vegetable oil
+canola oil
+coconut oil
+sesame oil
+butter oil
+mayonnaise
+vinegar
+apple cider vinegar
+white vinegar
+balsamic vinegar
+rice vinegar
+soy sauce
+tamari
+miso
+garlic
+garlic powder
+onion
+red onion
+white onion
+green onion
+scallion
+shallot
+leek
+tomato
+tomatoes
+cherry tomato
+sun dried tomato
+ketchup
+mustard
+mayonnaise
+eggplant
+zucchini
+courgette
+cucumber
+lettuce
+spinach
+kale
+arugula
+rocket
+cabbage
+broccoli
+cauliflower
+carrot
+celery
+bell pepper
+capsicum
+jalapeno
+chili
+chili powder
+paprika
+coriander
+cumin
+turmeric
+ginger
+lemongrass
+lime
+lemon
+lemon zest
+orange
+mandarin
+grapefruit
+apple
+banana
+strawberry
+blueberry
+raspberry
+blackberry
+grape
+pineapple
+mango
+avocado
+potato
+sweet potato
+yam
+cassava
+corn
+peas
+green peas
+beans
+black beans
+kidney beans
+lentils
+chickpeas
+tofu
+tempeh
+chicken
+chicken breast
+chicken thigh
+turkey
+beef
+pork
+lamb
+veal
+bacon
+sausage
+ham
+salami
+ground beef
+minced meat
+fish
+salmon
+tuna
+cod
+trout
+shrimp
+prawns
+crab
+lobster
+oyster
+mussel
+clam
+squid
+octopus
+noodle
+pasta
+spaghetti
+linguine
+fettuccine
+macaroni
+rice
+basmati rice
+jasmine rice
+brown rice
+sushi rice
+risotto rice
+quinoa
+couscous
+bread
+bagel
+tortilla
+wrap
+pizza base
+burger bun
+oatmeal
+cereal
+granola
+granulated sugar
+brown sugar
+maple syrup
+molasses
+chocolate
+cocoa
+cocoa powder
+dark chocolate
+white chocolate
+cream cheese
+cheddar
+goat cheese
+blue cheese
+feta
+brie
+camembert
+yogurt
+buttermilk
+cream
+whipping cream
+salted butter
+unsalted butter
+peanut butter
+almond butter
+nutella
+almonds
+walnuts
+pecans
+cashews
+macadamia
+hazelnuts
+peanuts
+sesame seeds
+chia seeds
+flaxseed
+sunflower seeds
+pumpkin seeds
+raisins
+dried apricot
+dried fig
+vanilla extract
+almond extract
+cinnamon
+nutmeg
+cardamom
+clove
+allspice
+bay leaf
+oregano
+basil
+thyme
+rosemary
+sage
+parsley
+dill
+cilantro
+cilantro leaves
+mint
+scallion
+soy milk
+almond milk
+coconut milk
+rice milk
+tofu
+edamame
+sauce
+barbecue sauce
+teriyaki sauce
+hoisin sauce
+hot sauce
+salsa
+pesto
+mayonnaise

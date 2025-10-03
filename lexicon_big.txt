@@ -1,0 +1,276 @@
+# Vegetables
+potato
+sweet potato
+yam
+cassava
+carrot
+broccoli
+cauliflower
+cabbage
+spinach
+lettuce
+kale
+arugula
+rocket
+brussels sprouts
+green beans
+string beans
+peas
+snow peas
+sugar snap peas
+bell pepper
+red bell pepper
+green bell pepper
+yellow bell pepper
+capsicum
+chili pepper
+jalapeno
+serrano chili
+habanero
+onion
+red onion
+white onion
+spring onion
+green onion
+shallot
+leek
+garlic
+ginger
+celery
+zucchini
+courgette
+eggplant
+aubergine
+mushroom
+shiitake mushroom
+button mushroom
+portobello mushroom
+enoki mushroom
+okra
+beetroot
+radish
+turnip
+parsnip
+fennel
+artichoke
+asparagus
+pumpkin
+squash
+butternut squash
+acorn squash
+cucumber
+gherkin
+seaweed
+nori
+wakame
+kombu
+lotus root
+bamboo shoot
+water chestnut
+
+# Fruits
+apple
+green apple
+red apple
+banana
+pear
+plum
+peach
+nectarine
+apricot
+grape
+green grape
+red grape
+raisin
+date
+fig
+kiwi
+strawberry
+blueberry
+raspberry
+blackberry
+cranberry
+gooseberry
+mango
+papaya
+pineapple
+melon
+cantaloupe
+honeydew
+watermelon
+orange
+mandarin
+tangerine
+clementine
+grapefruit
+lemon
+lime
+pomegranate
+passion fruit
+dragon fruit
+lychee
+guava
+persimmon
+coconut
+avocado
+olive
+cherry
+sour cherry
+currant
+physalis
+mulberry
+starfruit
+durian
+
+# Grains, legumes & starches
+rice
+white rice
+brown rice
+basmati rice
+jasmine rice
+sushi rice
+wild rice
+quinoa
+couscous
+bulgur
+barley
+oats
+oatmeal
+rye
+wheat
+whole wheat flour
+semolina
+corn
+maize
+polenta
+tortilla
+bread
+baguette
+sourdough bread
+burger bun
+pita bread
+naan
+chapati
+roti
+udon noodles
+soba noodles
+ramen noodles
+rice noodles
+egg noodles
+pasta
+spaghetti
+macaroni
+penne
+fusilli
+fettuccine
+lasagna
+cannelloni
+gnocchi
+dumpling
+wonton wrapper
+spring roll wrapper
+lentils
+red lentils
+green lentils
+yellow lentils
+chickpeas
+garbanzo beans
+black beans
+kidney beans
+pinto beans
+cannellini beans
+navy beans
+soybean
+edamame
+tofu
+tempeh
+seitan
+
+# Dairy & eggs
+milk
+whole milk
+skim milk
+evaporated milk
+condensed milk
+buttermilk
+cream
+heavy cream
+whipping cream
+sour cream
+clotted cream
+ice cream
+cheese
+cheddar cheese
+mozzarella
+parmesan
+feta cheese
+goat cheese
+blue cheese
+brie
+camembert
+cream cheese
+ricotta
+cottage cheese
+halloumi
+paneer
+butter
+unsalted butter
+salted butter
+yogurt
+greek yogurt
+egg
+eggs
+egg yolk
+egg white
+mayonnaise
+
+# Meat & poultry
+chicken
+chicken breast
+chicken thigh
+chicken wing
+chicken drumstick
+turkey
+duck
+goose
+quail
+beef
+ground beef
+steak
+sirloin steak
+ribeye steak
+beef brisket
+veal
+pork
+pork chop
+pork ribs
+bacon
+ham
+prosciutto
+salami
+sausage
+chorizo
+pepperoni
+lamb
+lamb chop
+mutton
+venison
+rabbit
+
+# Fish & seafood
+fish
+white fish
+salmon
+trout
+cod
+haddock
+tuna
+anchovy
+sardine
+mackerel
+herring
+halibut
+sole
+snapper
+tilapia
+c

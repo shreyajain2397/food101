@@ -1,0 +1,3032 @@
+{
+  "apple_pie/604375.jpg": {
+    "image": "data/val_caps_5perclass/apple_pie/604375.jpg",
+    "class": "apple_pie",
+    "filename": "604375.jpg",
+    "stem": "604375"
+  },
+  "apple_pie/1544507.jpg": {
+    "image": "data/val_caps_5perclass/apple_pie/1544507.jpg",
+    "class": "apple_pie",
+    "filename": "1544507.jpg",
+    "stem": "1544507"
+  },
+  "apple_pie/1147371.jpg": {
+    "image": "data/val_caps_5perclass/apple_pie/1147371.jpg",
+    "class": "apple_pie",
+    "filename": "1147371.jpg",
+    "stem": "1147371"
+  },
+  "apple_pie/2439188.jpg": {
+    "image": "data/val_caps_5perclass/apple_pie/2439188.jpg",
+    "class": "apple_pie",
+    "filename": "2439188.jpg",
+    "stem": "2439188"
+  },
+  "apple_pie/2288697.jpg": {
+    "image": "data/val_caps_5perclass/apple_pie/2288697.jpg",
+    "class": "apple_pie",
+    "filename": "2288697.jpg",
+    "stem": "2288697"
+  },
+  "baby_back_ribs/1941557.jpg": {
+    "image": "data/val_caps_5perclass/baby_back_ribs/1941557.jpg",
+    "class": "baby_back_ribs",
+    "filename": "1941557.jpg",
+    "stem": "1941557"
+  },
+  "baby_back_ribs/1621773.jpg": {
+    "image": "data/val_caps_5perclass/baby_back_ribs/1621773.jpg",
+    "class": "baby_back_ribs",
+    "filename": "1621773.jpg",
+    "stem": "1621773"
+  },
+  "baby_back_ribs/1494720.jpg": {
+    "image": "data/val_caps_5perclass/baby_back_ribs/1494720.jpg",
+    "class": "baby_back_ribs",
+    "filename": "1494720.jpg",
+    "stem": "1494720"
+  },
+  "baby_back_ribs/799624.jpg": {
+    "image": "data/val_caps_5perclass/baby_back_ribs/799624.jpg",
+    "class": "baby_back_ribs",
+    "filename": "799624.jpg",
+    "stem": "799624"
+  },
+  "baby_back_ribs/3724591.jpg": {
+    "image": "data/val_caps_5perclass/baby_back_ribs/3724591.jpg",
+    "class": "baby_back_ribs",
+    "filename": "3724591.jpg",
+    "stem": "3724591"
+  },
+  "baklava/1413667.jpg": {
+    "image": "data/val_caps_5perclass/baklava/1413667.jpg",
+    "class": "baklava",
+    "filename": "1413667.jpg",
+    "stem": "1413667"
+  },
+  "baklava/3810748.jpg": {
+    "image": "data/val_caps_5perclass/baklava/3810748.jpg",
+    "class": "baklava",
+    "filename": "3810748.jpg",
+    "stem": "3810748"
+  },
+  "baklava/3006261.jpg": {
+    "image": "data/val_caps_5perclass/baklava/3006261.jpg",
+    "class": "baklava",
+    "filename": "3006261.jpg",
+    "stem": "3006261"
+  },
+  "baklava/1156519.jpg": {
+    "image": "data/val_caps_5perclass/baklava/1156519.jpg",
+    "class": "baklava",
+    "filename": "1156519.jpg",
+    "stem": "1156519"
+  },
+  "baklava/1138047.jpg": {
+    "image": "data/val_caps_5perclass/baklava/1138047.jpg",
+    "class": "baklava",
+    "filename": "1138047.jpg",
+    "stem": "1138047"
+  },
+  "beef_carpaccio/1365596.jpg": {
+    "image": "data/val_caps_5perclass/beef_carpaccio/1365596.jpg",
+    "class": "beef_carpaccio",
+    "filename": "1365596.jpg",
+    "stem": "1365596"
+  },
+  "beef_carpaccio/1916354.jpg": {
+    "image": "data/val_caps_5perclass/beef_carpaccio/1916354.jpg",
+    "class": "beef_carpaccio",
+    "filename": "1916354.jpg",
+    "stem": "1916354"
+  },
+  "beef_carpaccio/1961058.jpg": {
+    "image": "data/val_caps_5perclass/beef_carpaccio/1961058.jpg",
+    "class": "beef_carpaccio",
+    "filename": "1961058.jpg",
+    "stem": "1961058"
+  },
+  "beef_carpaccio/3323355.jpg": {
+    "image": "data/val_caps_5perclass/beef_carpaccio/3323355.jpg",
+    "class": "beef_carpaccio",
+    "filename": "3323355.jpg",
+    "stem": "3323355"
+  },
+  "beef_carpaccio/391119.jpg": {
+    "image": "data/val_caps_5perclass/beef_carpaccio/391119.jpg",
+    "class": "beef_carpaccio",
+    "filename": "391119.jpg",
+    "stem": "391119"
+  },
+  "beef_tartare/1141816.jpg": {
+    "image": "data/val_caps_5perclass/beef_tartare/1141816.jpg",
+    "class": "beef_tartare",
+    "filename": "1141816.jpg",
+    "stem": "1141816"
+  },
+  "beef_tartare/3680675.jpg": {
+    "image": "data/val_caps_5perclass/beef_tartare/3680675.jpg",
+    "class": "beef_tartare",
+    "filename": "3680675.jpg",
+    "stem": "3680675"
+  },
+  "beef_tartare/210420.jpg": {
+    "image": "data/val_caps_5perclass/beef_tartare/210420.jpg",
+    "class": "beef_tartare",
+    "filename": "210420.jpg",
+    "stem": "210420"
+  },
+  "beef_tartare/901171.jpg": {
+    "image": "data/val_caps_5perclass/beef_tartare/901171.jpg",
+    "class": "beef_tartare",
+    "filename": "901171.jpg",
+    "stem": "901171"
+  },
+  "beef_tartare/541893.jpg": {
+    "image": "data/val_caps_5perclass/beef_tartare/541893.jpg",
+    "class": "beef_tartare",
+    "filename": "541893.jpg",
+    "stem": "541893"
+  },
+  "beet_salad/781947.jpg": {
+    "image": "data/val_caps_5perclass/beet_salad/781947.jpg",
+    "class": "beet_salad",
+    "filename": "781947.jpg",
+    "stem": "781947"
+  },
+  "beet_salad/3622258.jpg": {
+    "image": "data/val_caps_5perclass/beet_salad/3622258.jpg",
+    "class": "beet_salad",
+    "filename": "3622258.jpg",
+    "stem": "3622258"
+  },
+  "beet_salad/306741.jpg": {
+    "image": "data/val_caps_5perclass/beet_salad/306741.jpg",
+    "class": "beet_salad",
+    "filename": "306741.jpg",
+    "stem": "306741"
+  },
+  "beet_salad/1958336.jpg": {
+    "image": "data/val_caps_5perclass/beet_salad/1958336.jpg",
+    "class": "beet_salad",
+    "filename": "1958336.jpg",
+    "stem": "1958336"
+  },
+  "beet_salad/3174610.jpg": {
+    "image": "data/val_caps_5perclass/beet_salad/3174610.jpg",
+    "class": "beet_salad",
+    "filename": "3174610.jpg",
+    "stem": "3174610"
+  },
+  "beignets/3917742.jpg": {
+    "image": "data/val_caps_5perclass/beignets/3917742.jpg",
+    "class": "beignets",
+    "filename": "3917742.jpg",
+    "stem": "3917742"
+  },
+  "beignets/2331886.jpg": {
+    "image": "data/val_caps_5perclass/beignets/2331886.jpg",
+    "class": "beignets",
+    "filename": "2331886.jpg",
+    "stem": "2331886"
+  },
+  "beignets/1021134.jpg": {
+    "image": "data/val_caps_5perclass/beignets/1021134.jpg",
+    "class": "beignets",
+    "filename": "1021134.jpg",
+    "stem": "1021134"
+  },
+  "beignets/1629665.jpg": {
+    "image": "data/val_caps_5perclass/beignets/1629665.jpg",
+    "class": "beignets",
+    "filename": "1629665.jpg",
+    "stem": "1629665"
+  },
+  "beignets/85961.jpg": {
+    "image": "data/val_caps_5perclass/beignets/85961.jpg",
+    "class": "beignets",
+    "filename": "85961.jpg",
+    "stem": "85961"
+  },
+  "bibimbap/2990859.jpg": {
+    "image": "data/val_caps_5perclass/bibimbap/2990859.jpg",
+    "class": "bibimbap",
+    "filename": "2990859.jpg",
+    "stem": "2990859"
+  },
+  "bibimbap/2594394.jpg": {
+    "image": "data/val_caps_5perclass/bibimbap/2594394.jpg",
+    "class": "bibimbap",
+    "filename": "2594394.jpg",
+    "stem": "2594394"
+  },
+  "bibimbap/2398238.jpg": {
+    "image": "data/val_caps_5perclass/bibimbap/2398238.jpg",
+    "class": "bibimbap",
+    "filename": "2398238.jpg",
+    "stem": "2398238"
+  },
+  "bibimbap/1757745.jpg": {
+    "image": "data/val_caps_5perclass/bibimbap/1757745.jpg",
+    "class": "bibimbap",
+    "filename": "1757745.jpg",
+    "stem": "1757745"
+  },
+  "bibimbap/2057602.jpg": {
+    "image": "data/val_caps_5perclass/bibimbap/2057602.jpg",
+    "class": "bibimbap",
+    "filename": "2057602.jpg",
+    "stem": "2057602"
+  },
+  "bread_pudding/25797.jpg": {
+    "image": "data/val_caps_5perclass/bread_pudding/25797.jpg",
+    "class": "bread_pudding",
+    "filename": "25797.jpg",
+    "stem": "25797"
+  },
+  "bread_pudding/1375816.jpg": {
+    "image": "data/val_caps_5perclass/bread_pudding/1375816.jpg",
+    "class": "bread_pudding",
+    "filename": "1375816.jpg",
+    "stem": "1375816"
+  },
+  "bread_pudding/133895.jpg": {
+    "image": "data/val_caps_5perclass/bread_pudding/133895.jpg",
+    "class": "bread_pudding",
+    "filename": "133895.jpg",
+    "stem": "133895"
+  },
+  "bread_pudding/2853668.jpg": {
+    "image": "data/val_caps_5perclass/bread_pudding/2853668.jpg",
+    "class": "bread_pudding",
+    "filename": "2853668.jpg",
+    "stem": "2853668"
+  },
+  "bread_pudding/1361452.jpg": {
+    "image": "data/val_caps_5perclass/bread_pudding/1361452.jpg",
+    "class": "bread_pudding",
+    "filename": "1361452.jpg",
+    "stem": "1361452"
+  },
+  "breakfast_burrito/278641.jpg": {
+    "image": "data/val_caps_5perclass/breakfast_burrito/278641.jpg",
+    "class": "breakfast_burrito",
+    "filename": "278641.jpg",
+    "stem": "278641"
+  },
+  "breakfast_burrito/2681874.jpg": {
+    "image": "data/val_caps_5perclass/breakfast_burrito/2681874.jpg",
+    "class": "breakfast_burrito",
+    "filename": "2681874.jpg",
+    "stem": "2681874"
+  },
+  "breakfast_burrito/512161.jpg": {
+    "image": "data/val_caps_5perclass/breakfast_burrito/512161.jpg",
+    "class": "breakfast_burrito",
+    "filename": "512161.jpg",
+    "stem": "512161"
+  },
+  "breakfast_burrito/2256201.jpg": {
+    "image": "data/val_caps_5perclass/breakfast_burrito/2256201.jpg",
+    "class": "breakfast_burrito",
+    "filename": "2256201.jpg",
+    "stem": "2256201"
+  },
+  "breakfast_burrito/1185707.jpg": {
+    "image": "data/val_caps_5perclass/breakfast_burrito/1185707.jpg",
+    "class": "breakfast_burrito",
+    "filename": "1185707.jpg",
+    "stem": "1185707"
+  },
+  "bruschetta/995484.jpg": {
+    "image": "data/val_caps_5perclass/bruschetta/995484.jpg",
+    "class": "bruschetta",
+    "filename": "995484.jpg",
+    "stem": "995484"
+  },
+  "bruschetta/3435835.jpg": {
+    "image": "data/val_caps_5perclass/bruschetta/3435835.jpg",
+    "class": "bruschetta",
+    "filename": "3435835.jpg",
+    "stem": "3435835"
+  },
+  "bruschetta/3810259.jpg": {
+    "image": "data/val_caps_5perclass/bruschetta/3810259.jpg",
+    "class": "bruschetta",
+    "filename": "3810259.jpg",
+    "stem": "3810259"
+  },
+  "bruschetta/1640671.jpg": {
+    "image": "data/val_caps_5perclass/bruschetta/1640671.jpg",
+    "class": "bruschetta",
+    "filename": "1640671.jpg",
+    "stem": "1640671"
+  },
+  "bruschetta/2956862.jpg": {
+    "image": "data/val_caps_5perclass/bruschetta/2956862.jpg",
+    "class": "bruschetta",
+    "filename": "2956862.jpg",
+    "stem": "2956862"
+  },
+  "caesar_salad/1462824.jpg": {
+    "image": "data/val_caps_5perclass/caesar_salad/1462824.jpg",
+    "class": "caesar_salad",
+    "filename": "1462824.jpg",
+    "stem": "1462824"
+  },
+  "caesar_salad/3591385.jpg": {
+    "image": "data/val_caps_5perclass/caesar_salad/3591385.jpg",
+    "class": "caesar_salad",
+    "filename": "3591385.jpg",
+    "stem": "3591385"
+  },
+  "caesar_salad/242466.jpg": {
+    "image": "data/val_caps_5perclass/caesar_salad/242466.jpg",
+    "class": "caesar_salad",
+    "filename": "242466.jpg",
+    "stem": "242466"
+  },
+  "caesar_salad/398413.jpg": {
+    "image": "data/val_caps_5perclass/caesar_salad/398413.jpg",
+    "class": "caesar_salad",
+    "filename": "398413.jpg",
+    "stem": "398413"
+  },
+  "caesar_salad/3876674.jpg": {
+    "image": "data/val_caps_5perclass/caesar_salad/3876674.jpg",
+    "class": "caesar_salad",
+    "filename": "3876674.jpg",
+    "stem": "3876674"
+  },
+  "cannoli/2717011.jpg": {
+    "image": "data/val_caps_5perclass/cannoli/2717011.jpg",
+    "class": "cannoli",
+    "filename": "2717011.jpg",
+    "stem": "2717011"
+  },
+  "cannoli/3866152.jpg": {
+    "image": "data/val_caps_5perclass/cannoli/3866152.jpg",
+    "class": "cannoli",
+    "filename": "3866152.jpg",
+    "stem": "3866152"
+  },
+  "cannoli/1813621.jpg": {
+    "image": "data/val_caps_5perclass/cannoli/1813621.jpg",
+    "class": "cannoli",
+    "filename": "1813621.jpg",
+    "stem": "1813621"
+  },
+  "cannoli/895411.jpg": {
+    "image": "data/val_caps_5perclass/cannoli/895411.jpg",
+    "class": "cannoli",
+    "filename": "895411.jpg",
+    "stem": "895411"
+  },
+  "cannoli/1313520.jpg": {
+    "image": "data/val_caps_5perclass/cannoli/1313520.jpg",
+    "class": "cannoli",
+    "filename": "1313520.jpg",
+    "stem": "1313520"
+  },
+  "caprese_salad/1265927.jpg": {
+    "image": "data/val_caps_5perclass/caprese_salad/1265927.jpg",
+    "class": "caprese_salad",
+    "filename": "1265927.jpg",
+    "stem": "1265927"
+  },
+  "caprese_salad/741414.jpg": {
+    "image": "data/val_caps_5perclass/caprese_salad/741414.jpg",
+    "class": "caprese_salad",
+    "filename": "741414.jpg",
+    "stem": "741414"
+  },
+  "caprese_salad/2260062.jpg": {
+    "image": "data/val_caps_5perclass/caprese_salad/2260062.jpg",
+    "class": "caprese_salad",
+    "filename": "2260062.jpg",
+    "stem": "2260062"
+  },
+  "caprese_salad/2426727.jpg": {
+    "image": "data/val_caps_5perclass/caprese_salad/2426727.jpg",
+    "class": "caprese_salad",
+    "filename": "2426727.jpg",
+    "stem": "2426727"
+  },
+  "caprese_salad/1468743.jpg": {
+    "image": "data/val_caps_5perclass/caprese_salad/1468743.jpg",
+    "class": "caprese_salad",
+    "filename": "1468743.jpg",
+    "stem": "1468743"
+  },
+  "carrot_cake/2238258.jpg": {
+    "image": "data/val_caps_5perclass/carrot_cake/2238258.jpg",
+    "class": "carrot_cake",
+    "filename": "2238258.jpg",
+    "stem": "2238258"
+  },
+  "carrot_cake/1566964.jpg": {
+    "image": "data/val_caps_5perclass/carrot_cake/1566964.jpg",
+    "class": "carrot_cake",
+    "filename": "1566964.jpg",
+    "stem": "1566964"
+  },
+  "carrot_cake/2951472.jpg": {
+    "image": "data/val_caps_5perclass/carrot_cake/2951472.jpg",
+    "class": "carrot_cake",
+    "filename": "2951472.jpg",
+    "stem": "2951472"
+  },
+  "carrot_cake/2427617.jpg": {
+    "image": "data/val_caps_5perclass/carrot_cake/2427617.jpg",
+    "class": "carrot_cake",
+    "filename": "2427617.jpg",
+    "stem": "2427617"
+  },
+  "carrot_cake/3303991.jpg": {
+    "image": "data/val_caps_5perclass/carrot_cake/3303991.jpg",
+    "class": "carrot_cake",
+    "filename": "3303991.jpg",
+    "stem": "3303991"
+  },
+  "ceviche/553592.jpg": {
+    "image": "data/val_caps_5perclass/ceviche/553592.jpg",
+    "class": "ceviche",
+    "filename": "553592.jpg",
+    "stem": "553592"
+  },
+  "ceviche/2731332.jpg": {
+    "image": "data/val_caps_5perclass/ceviche/2731332.jpg",
+    "class": "ceviche",
+    "filename": "2731332.jpg",
+    "stem": "2731332"
+  },
+  "ceviche/1730550.jpg": {
+    "image": "data/val_caps_5perclass/ceviche/1730550.jpg",
+    "class": "ceviche",
+    "filename": "1730550.jpg",
+    "stem": "1730550"
+  },
+  "ceviche/2770132.jpg": {
+    "image": "data/val_caps_5perclass/ceviche/2770132.jpg",
+    "class": "ceviche",
+    "filename": "2770132.jpg",
+    "stem": "2770132"
+  },
+  "ceviche/267752.jpg": {
+    "image": "data/val_caps_5perclass/ceviche/267752.jpg",
+    "class": "ceviche",
+    "filename": "267752.jpg",
+    "stem": "267752"
+  },
+  "cheese_plate/1919178.jpg": {
+    "image": "data/val_caps_5perclass/cheese_plate/1919178.jpg",
+    "class": "cheese_plate",
+    "filename": "1919178.jpg",
+    "stem": "1919178"
+  },
+  "cheese_plate/752159.jpg": {
+    "image": "data/val_caps_5perclass/cheese_plate/752159.jpg",
+    "class": "cheese_plate",
+    "filename": "752159.jpg",
+    "stem": "752159"
+  },
+  "cheese_plate/2182693.jpg": {
+    "image": "data/val_caps_5perclass/cheese_plate/2182693.jpg",
+    "class": "cheese_plate",
+    "filename": "2182693.jpg",
+    "stem": "2182693"
+  },
+  "cheese_plate/849769.jpg": {
+    "image": "data/val_caps_5perclass/cheese_plate/849769.jpg",
+    "class": "cheese_plate",
+    "filename": "849769.jpg",
+    "stem": "849769"
+  },
+  "cheese_plate/790536.jpg": {
+    "image": "data/val_caps_5perclass/cheese_plate/790536.jpg",
+    "class": "cheese_plate",
+    "filename": "790536.jpg",
+    "stem": "790536"
+  },
+  "cheesecake/53831.jpg": {
+    "image": "data/val_caps_5perclass/cheesecake/53831.jpg",
+    "class": "cheesecake",
+    "filename": "53831.jpg",
+    "stem": "53831"
+  },
+  "cheesecake/1412013.jpg": {
+    "image": "data/val_caps_5perclass/cheesecake/1412013.jpg",
+    "class": "cheesecake",
+    "filename": "1412013.jpg",
+    "stem": "1412013"
+  },
+  "cheesecake/403610.jpg": {
+    "image": "data/val_caps_5perclass/cheesecake/403610.jpg",
+    "class": "cheesecake",
+    "filename": "403610.jpg",
+    "stem": "403610"
+  },
+  "cheesecake/509947.jpg": {
+    "image": "data/val_caps_5perclass/cheesecake/509947.jpg",
+    "class": "cheesecake",
+    "filename": "509947.jpg",
+    "stem": "509947"
+  },
+  "cheesecake/1888668.jpg": {
+    "image": "data/val_caps_5perclass/cheesecake/1888668.jpg",
+    "class": "cheesecake",
+    "filename": "1888668.jpg",
+    "stem": "1888668"
+  },
+  "chicken_curry/3580088.jpg": {
+    "image": "data/val_caps_5perclass/chicken_curry/3580088.jpg",
+    "class": "chicken_curry",
+    "filename": "3580088.jpg",
+    "stem": "3580088"
+  },
+  "chicken_curry/99528.jpg": {
+    "image": "data/val_caps_5perclass/chicken_curry/99528.jpg",
+    "class": "chicken_curry",
+    "filename": "99528.jpg",
+    "stem": "99528"
+  },
+  "chicken_curry/2178253.jpg": {
+    "image": "data/val_caps_5perclass/chicken_curry/2178253.jpg",
+    "class": "chicken_curry",
+    "filename": "2178253.jpg",
+    "stem": "2178253"
+  },
+  "chicken_curry/1829512.jpg": {
+    "image": "data/val_caps_5perclass/chicken_curry/1829512.jpg",
+    "class": "chicken_curry",
+    "filename": "1829512.jpg",
+    "stem": "1829512"
+  },
+  "chicken_curry/3233857.jpg": {
+    "image": "data/val_caps_5perclass/chicken_curry/3233857.jpg",
+    "class": "chicken_curry",
+    "filename": "3233857.jpg",
+    "stem": "3233857"
+  },
+  "chicken_quesadilla/2892173.jpg": {
+    "image": "data/val_caps_5perclass/chicken_quesadilla/2892173.jpg",
+    "class": "chicken_quesadilla",
+    "filename": "2892173.jpg",
+    "stem": "2892173"
+  },
+  "chicken_quesadilla/2386061.jpg": {
+    "image": "data/val_caps_5perclass/chicken_quesadilla/2386061.jpg",
+    "class": "chicken_quesadilla",
+    "filename": "2386061.jpg",
+    "stem": "2386061"
+  },
+  "chicken_quesadilla/604894.jpg": {
+    "image": "data/val_caps_5perclass/chicken_quesadilla/604894.jpg",
+    "class": "chicken_quesadilla",
+    "filename": "604894.jpg",
+    "stem": "604894"
+  },
+  "chicken_quesadilla/827714.jpg": {
+    "image": "data/val_caps_5perclass/chicken_quesadilla/827714.jpg",
+    "class": "chicken_quesadilla",
+    "filename": "827714.jpg",
+    "stem": "827714"
+  },
+  "chicken_quesadilla/3770055.jpg": {
+    "image": "data/val_caps_5perclass/chicken_quesadilla/3770055.jpg",
+    "class": "chicken_quesadilla",
+    "filename": "3770055.jpg",
+    "stem": "3770055"
+  },
+  "chicken_wings/2022256.jpg": {
+    "image": "data/val_caps_5perclass/chicken_wings/2022256.jpg",
+    "class": "chicken_wings",
+    "filename": "2022256.jpg",
+    "stem": "2022256"
+  },
+  "chicken_wings/7869.jpg": {
+    "image": "data/val_caps_5perclass/chicken_wings/7869.jpg",
+    "class": "chicken_wings",
+    "filename": "7869.jpg",
+    "stem": "7869"
+  },
+  "chicken_wings/2532328.jpg": {
+    "image": "data/val_caps_5perclass/chicken_wings/2532328.jpg",
+    "class": "chicken_wings",
+    "filename": "2532328.jpg",
+    "stem": "2532328"
+  },
+  "chicken_wings/1267124.jpg": {
+    "image": "data/val_caps_5perclass/chicken_wings/1267124.jpg",
+    "class": "chicken_wings",
+    "filename": "1267124.jpg",
+    "stem": "1267124"
+  },
+  "chicken_wings/2070039.jpg": {
+    "image": "data/val_caps_5perclass/chicken_wings/2070039.jpg",
+    "class": "chicken_wings",
+    "filename": "2070039.jpg",
+    "stem": "2070039"
+  },
+  "chocolate_cake/1122368.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_cake/1122368.jpg",
+    "class": "chocolate_cake",
+    "filename": "1122368.jpg",
+    "stem": "1122368"
+  },
+  "chocolate_cake/251994.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_cake/251994.jpg",
+    "class": "chocolate_cake",
+    "filename": "251994.jpg",
+    "stem": "251994"
+  },
+  "chocolate_cake/2971668.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_cake/2971668.jpg",
+    "class": "chocolate_cake",
+    "filename": "2971668.jpg",
+    "stem": "2971668"
+  },
+  "chocolate_cake/2312305.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_cake/2312305.jpg",
+    "class": "chocolate_cake",
+    "filename": "2312305.jpg",
+    "stem": "2312305"
+  },
+  "chocolate_cake/1297060.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_cake/1297060.jpg",
+    "class": "chocolate_cake",
+    "filename": "1297060.jpg",
+    "stem": "1297060"
+  },
+  "chocolate_mousse/2063832.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_mousse/2063832.jpg",
+    "class": "chocolate_mousse",
+    "filename": "2063832.jpg",
+    "stem": "2063832"
+  },
+  "chocolate_mousse/3781649.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_mousse/3781649.jpg",
+    "class": "chocolate_mousse",
+    "filename": "3781649.jpg",
+    "stem": "3781649"
+  },
+  "chocolate_mousse/941179.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_mousse/941179.jpg",
+    "class": "chocolate_mousse",
+    "filename": "941179.jpg",
+    "stem": "941179"
+  },
+  "chocolate_mousse/2484332.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_mousse/2484332.jpg",
+    "class": "chocolate_mousse",
+    "filename": "2484332.jpg",
+    "stem": "2484332"
+  },
+  "chocolate_mousse/2067787.jpg": {
+    "image": "data/val_caps_5perclass/chocolate_mousse/2067787.jpg",
+    "class": "chocolate_mousse",
+    "filename": "2067787.jpg",
+    "stem": "2067787"
+  },
+  "churros/644455.jpg": {
+    "image": "data/val_caps_5perclass/churros/644455.jpg",
+    "class": "churros",
+    "filename": "644455.jpg",
+    "stem": "644455"
+  },
+  "churros/3323514.jpg": {
+    "image": "data/val_caps_5perclass/churros/3323514.jpg",
+    "class": "churros",
+    "filename": "3323514.jpg",
+    "stem": "3323514"
+  },
+  "churros/2820413.jpg": {
+    "image": "data/val_caps_5perclass/churros/2820413.jpg",
+    "class": "churros",
+    "filename": "2820413.jpg",
+    "stem": "2820413"
+  },
+  "churros/599957.jpg": {
+    "image": "data/val_caps_5perclass/churros/599957.jpg",
+    "class": "churros",
+    "filename": "599957.jpg",
+    "stem": "599957"
+  },
+  "churros/3140413.jpg": {
+    "image": "data/val_caps_5perclass/churros/3140413.jpg",
+    "class": "churros",
+    "filename": "3140413.jpg",
+    "stem": "3140413"
+  },
+  "clam_chowder/1744162.jpg": {
+    "image": "data/val_caps_5perclass/clam_chowder/1744162.jpg",
+    "class": "clam_chowder",
+    "filename": "1744162.jpg",
+    "stem": "1744162"
+  },
+  "clam_chowder/231372.jpg": {
+    "image": "data/val_caps_5perclass/clam_chowder/231372.jpg",
+    "class": "clam_chowder",
+    "filename": "231372.jpg",
+    "stem": "231372"
+  },
+  "clam_chowder/172395.jpg": {
+    "image": "data/val_caps_5perclass/clam_chowder/172395.jpg",
+    "class": "clam_chowder",
+    "filename": "172395.jpg",
+    "stem": "172395"
+  },
+  "clam_chowder/2258108.jpg": {
+    "image": "data/val_caps_5perclass/clam_chowder/2258108.jpg",
+    "class": "clam_chowder",
+    "filename": "2258108.jpg",
+    "stem": "2258108"
+  },
+  "clam_chowder/3807157.jpg": {
+    "image": "data/val_caps_5perclass/clam_chowder/3807157.jpg",
+    "class": "clam_chowder",
+    "filename": "3807157.jpg",
+    "stem": "3807157"
+  },
+  "club_sandwich/3527885.jpg": {
+    "image": "data/val_caps_5perclass/club_sandwich/3527885.jpg",
+    "class": "club_sandwich",
+    "filename": "3527885.jpg",
+    "stem": "3527885"
+  },
+  "club_sandwich/217683.jpg": {
+    "image": "data/val_caps_5perclass/club_sandwich/217683.jpg",
+    "class": "club_sandwich",
+    "filename": "217683.jpg",
+    "stem": "217683"
+  },
+  "club_sandwich/3755104.jpg": {
+    "image": "data/val_caps_5perclass/club_sandwich/3755104.jpg",
+    "class": "club_sandwich",
+    "filename": "3755104.jpg",
+    "stem": "3755104"
+  },
+  "club_sandwich/3061151.jpg": {
+    "image": "data/val_caps_5perclass/club_sandwich/3061151.jpg",
+    "class": "club_sandwich",
+    "filename": "3061151.jpg",
+    "stem": "3061151"
+  },
+  "club_sandwich/3754932.jpg": {
+    "image": "data/val_caps_5perclass/club_sandwich/3754932.jpg",
+    "class": "club_sandwich",
+    "filename": "3754932.jpg",
+    "stem": "3754932"
+  },
+  "crab_cakes/2805174.jpg": {
+    "image": "data/val_caps_5perclass/crab_cakes/2805174.jpg",
+    "class": "crab_cakes",
+    "filename": "2805174.jpg",
+    "stem": "2805174"
+  },
+  "crab_cakes/2648450.jpg": {
+    "image": "data/val_caps_5perclass/crab_cakes/2648450.jpg",
+    "class": "crab_cakes",
+    "filename": "2648450.jpg",
+    "stem": "2648450"
+  },
+  "crab_cakes/1969495.jpg": {
+    "image": "data/val_caps_5perclass/crab_cakes/1969495.jpg",
+    "class": "crab_cakes",
+    "filename": "1969495.jpg",
+    "stem": "1969495"
+  },
+  "crab_cakes/1637066.jpg": {
+    "image": "data/val_caps_5perclass/crab_cakes/1637066.jpg",
+    "class": "crab_cakes",
+    "filename": "1637066.jpg",
+    "stem": "1637066"
+  },
+  "crab_cakes/3420681.jpg": {
+    "image": "data/val_caps_5perclass/crab_cakes/3420681.jpg",
+    "class": "crab_cakes",
+    "filename": "3420681.jpg",
+    "stem": "3420681"
+  },
+  "creme_brulee/3198442.jpg": {
+    "image": "data/val_caps_5perclass/creme_brulee/3198442.jpg",
+    "class": "creme_brulee",
+    "filename": "3198442.jpg",
+    "stem": "3198442"
+  },
+  "creme_brulee/1301069.jpg": {
+    "image": "data/val_caps_5perclass/creme_brulee/1301069.jpg",
+    "class": "creme_brulee",
+    "filename": "1301069.jpg",
+    "stem": "1301069"
+  },
+  "creme_brulee/114798.jpg": {
+    "image": "data/val_caps_5perclass/creme_brulee/114798.jpg",
+    "class": "creme_brulee",
+    "filename": "114798.jpg",
+    "stem": "114798"
+  },
+  "creme_brulee/1383098.jpg": {
+    "image": "data/val_caps_5perclass/creme_brulee/1383098.jpg",
+    "class": "creme_brulee",
+    "filename": "1383098.jpg",
+    "stem": "1383098"
+  },
+  "creme_brulee/1591030.jpg": {
+    "image": "data/val_caps_5perclass/creme_brulee/1591030.jpg",
+    "class": "creme_brulee",
+    "filename": "1591030.jpg",
+    "stem": "1591030"
+  },
+  "croque_madame/531000.jpg": {
+    "image": "data/val_caps_5perclass/croque_madame/531000.jpg",
+    "class": "croque_madame",
+    "filename": "531000.jpg",
+    "stem": "531000"
+  },
+  "croque_madame/1732947.jpg": {
+    "image": "data/val_caps_5perclass/croque_madame/1732947.jpg",
+    "class": "croque_madame",
+    "filename": "1732947.jpg",
+    "stem": "1732947"
+  },
+  "croque_madame/729044.jpg": {
+    "image": "data/val_caps_5perclass/croque_madame/729044.jpg",
+    "class": "croque_madame",
+    "filename": "729044.jpg",
+    "stem": "729044"
+  },
+  "croque_madame/3034871.jpg": {
+    "image": "data/val_caps_5perclass/croque_madame/3034871.jpg",
+    "class": "croque_madame",
+    "filename": "3034871.jpg",
+    "stem": "3034871"
+  },
+  "croque_madame/3905735.jpg": {
+    "image": "data/val_caps_5perclass/croque_madame/3905735.jpg",
+    "class": "croque_madame",
+    "filename": "3905735.jpg",
+    "stem": "3905735"
+  },
+  "cup_cakes/1301171.jpg": {
+    "image": "data/val_caps_5perclass/cup_cakes/1301171.jpg",
+    "class": "cup_cakes",
+    "filename": "1301171.jpg",
+    "stem": "1301171"
+  },
+  "cup_cakes/2877630.jpg": {
+    "image": "data/val_caps_5perclass/cup_cakes/2877630.jpg",
+    "class": "cup_cakes",
+    "filename": "2877630.jpg",
+    "stem": "2877630"
+  },
+  "cup_cakes/2856542.jpg": {
+    "image": "data/val_caps_5perclass/cup_cakes/2856542.jpg",
+    "class": "cup_cakes",
+    "filename": "2856542.jpg",
+    "stem": "2856542"
+  },
+  "cup_cakes/489664.jpg": {
+    "image": "data/val_caps_5perclass/cup_cakes/489664.jpg",
+    "class": "cup_cakes",
+    "filename": "489664.jpg",
+    "stem": "489664"
+  },
+  "cup_cakes/3307370.jpg": {
+    "image": "data/val_caps_5perclass/cup_cakes/3307370.jpg",
+    "class": "cup_cakes",
+    "filename": "3307370.jpg",
+    "stem": "3307370"
+  },
+  "deviled_eggs/3646977.jpg": {
+    "image": "data/val_caps_5perclass/deviled_eggs/3646977.jpg",
+    "class": "deviled_eggs",
+    "filename": "3646977.jpg",
+    "stem": "3646977"
+  },
+  "deviled_eggs/2160597.jpg": {
+    "image": "data/val_caps_5perclass/deviled_eggs/2160597.jpg",
+    "class": "deviled_eggs",
+    "filename": "2160597.jpg",
+    "stem": "2160597"
+  },
+  "deviled_eggs/3742000.jpg": {
+    "image": "data/val_caps_5perclass/deviled_eggs/3742000.jpg",
+    "class": "deviled_eggs",
+    "filename": "3742000.jpg",
+    "stem": "3742000"
+  },
+  "deviled_eggs/1055197.jpg": {
+    "image": "data/val_caps_5perclass/deviled_eggs/1055197.jpg",
+    "class": "deviled_eggs",
+    "filename": "1055197.jpg",
+    "stem": "1055197"
+  },
+  "deviled_eggs/752401.jpg": {
+    "image": "data/val_caps_5perclass/deviled_eggs/752401.jpg",
+    "class": "deviled_eggs",
+    "filename": "752401.jpg",
+    "stem": "752401"
+  },
+  "donuts/93779.jpg": {
+    "image": "data/val_caps_5perclass/donuts/93779.jpg",
+    "class": "donuts",
+    "filename": "93779.jpg",
+    "stem": "93779"
+  },
+  "donuts/1579093.jpg": {
+    "image": "data/val_caps_5perclass/donuts/1579093.jpg",
+    "class": "donuts",
+    "filename": "1579093.jpg",
+    "stem": "1579093"
+  },
+  "donuts/800442.jpg": {
+    "image": "data/val_caps_5perclass/donuts/800442.jpg",
+    "class": "donuts",
+    "filename": "800442.jpg",
+    "stem": "800442"
+  },
+  "donuts/3702217.jpg": {
+    "image": "data/val_caps_5perclass/donuts/3702217.jpg",
+    "class": "donuts",
+    "filename": "3702217.jpg",
+    "stem": "3702217"
+  },
+  "donuts/2219487.jpg": {
+    "image": "data/val_caps_5perclass/donuts/2219487.jpg",
+    "class": "donuts",
+    "filename": "2219487.jpg",
+    "stem": "2219487"
+  },
+  "dumplings/652252.jpg": {
+    "image": "data/val_caps_5perclass/dumplings/652252.jpg",
+    "class": "dumplings",
+    "filename": "652252.jpg",
+    "stem": "652252"
+  },
+  "dumplings/2634555.jpg": {
+    "image": "data/val_caps_5perclass/dumplings/2634555.jpg",
+    "class": "dumplings",
+    "filename": "2634555.jpg",
+    "stem": "2634555"
+  },
+  "dumplings/1411526.jpg": {
+    "image": "data/val_caps_5perclass/dumplings/1411526.jpg",
+    "class": "dumplings",
+    "filename": "1411526.jpg",
+    "stem": "1411526"
+  },
+  "dumplings/2329626.jpg": {
+    "image": "data/val_caps_5perclass/dumplings/2329626.jpg",
+    "class": "dumplings",
+    "filename": "2329626.jpg",
+    "stem": "2329626"
+  },
+  "dumplings/308735.jpg": {
+    "image": "data/val_caps_5perclass/dumplings/308735.jpg",
+    "class": "dumplings",
+    "filename": "308735.jpg",
+    "stem": "308735"
+  },
+  "edamame/1852474.jpg": {
+    "image": "data/val_caps_5perclass/edamame/1852474.jpg",
+    "class": "edamame",
+    "filename": "1852474.jpg",
+    "stem": "1852474"
+  },
+  "edamame/3254753.jpg": {
+    "image": "data/val_caps_5perclass/edamame/3254753.jpg",
+    "class": "edamame",
+    "filename": "3254753.jpg",
+    "stem": "3254753"
+  },
+  "edamame/102048.jpg": {
+    "image": "data/val_caps_5perclass/edamame/102048.jpg",
+    "class": "edamame",
+    "filename": "102048.jpg",
+    "stem": "102048"
+  },
+  "edamame/977940.jpg": {
+    "image": "data/val_caps_5perclass/edamame/977940.jpg",
+    "class": "edamame",
+    "filename": "977940.jpg",
+    "stem": "977940"
+  },
+  "edamame/969509.jpg": {
+    "image": "data/val_caps_5perclass/edamame/969509.jpg",
+    "class": "edamame",
+    "filename": "969509.jpg",
+    "stem": "969509"
+  },
+  "eggs_benedict/2258162.jpg": {
+    "image": "data/val_caps_5perclass/eggs_benedict/2258162.jpg",
+    "class": "eggs_benedict",
+    "filename": "2258162.jpg",
+    "stem": "2258162"
+  },
+  "eggs_benedict/346296.jpg": {
+    "image": "data/val_caps_5perclass/eggs_benedict/346296.jpg",
+    "class": "eggs_benedict",
+    "filename": "346296.jpg",
+    "stem": "346296"
+  },
+  "eggs_benedict/1875405.jpg": {
+    "image": "data/val_caps_5perclass/eggs_benedict/1875405.jpg",
+    "class": "eggs_benedict",
+    "filename": "1875405.jpg",
+    "stem": "1875405"
+  },
+  "eggs_benedict/3485018.jpg": {
+    "image": "data/val_caps_5perclass/eggs_benedict/3485018.jpg",
+    "class": "eggs_benedict",
+    "filename": "3485018.jpg",
+    "stem": "3485018"
+  },
+  "eggs_benedict/1501268.jpg": {
+    "image": "data/val_caps_5perclass/eggs_benedict/1501268.jpg",
+    "class": "eggs_benedict",
+    "filename": "1501268.jpg",
+    "stem": "1501268"
+  },
+  "escargots/527098.jpg": {
+    "image": "data/val_caps_5perclass/escargots/527098.jpg",
+    "class": "escargots",
+    "filename": "527098.jpg",
+    "stem": "527098"
+  },
+  "escargots/2409832.jpg": {
+    "image": "data/val_caps_5perclass/escargots/2409832.jpg",
+    "class": "escargots",
+    "filename": "2409832.jpg",
+    "stem": "2409832"
+  },
+  "escargots/581336.jpg": {
+    "image": "data/val_caps_5perclass/escargots/581336.jpg",
+    "class": "escargots",
+    "filename": "581336.jpg",
+    "stem": "581336"
+  },
+  "escargots/3441042.jpg": {
+    "image": "data/val_caps_5perclass/escargots/3441042.jpg",
+    "class": "escargots",
+    "filename": "3441042.jpg",
+    "stem": "3441042"
+  },
+  "escargots/421926.jpg": {
+    "image": "data/val_caps_5perclass/escargots/421926.jpg",
+    "class": "escargots",
+    "filename": "421926.jpg",
+    "stem": "421926"
+  },
+  "falafel/1987564.jpg": {
+    "image": "data/val_caps_5perclass/falafel/1987564.jpg",
+    "class": "falafel",
+    "filename": "1987564.jpg",
+    "stem": "1987564"
+  },
+  "falafel/1764244.jpg": {
+    "image": "data/val_caps_5perclass/falafel/1764244.jpg",
+    "class": "falafel",
+    "filename": "1764244.jpg",
+    "stem": "1764244"
+  },
+  "falafel/2912388.jpg": {
+    "image": "data/val_caps_5perclass/falafel/2912388.jpg",
+    "class": "falafel",
+    "filename": "2912388.jpg",
+    "stem": "2912388"
+  },
+  "falafel/1805054.jpg": {
+    "image": "data/val_caps_5perclass/falafel/1805054.jpg",
+    "class": "falafel",
+    "filename": "1805054.jpg",
+    "stem": "1805054"
+  },
+  "falafel/366728.jpg": {
+    "image": "data/val_caps_5perclass/falafel/366728.jpg",
+    "class": "falafel",
+    "filename": "366728.jpg",
+    "stem": "366728"
+  },
+  "filet_mignon/3674395.jpg": {
+    "image": "data/val_caps_5perclass/filet_mignon/3674395.jpg",
+    "class": "filet_mignon",
+    "filename": "3674395.jpg",
+    "stem": "3674395"
+  },
+  "filet_mignon/1001477.jpg": {
+    "image": "data/val_caps_5perclass/filet_mignon/1001477.jpg",
+    "class": "filet_mignon",
+    "filename": "1001477.jpg",
+    "stem": "1001477"
+  },
+  "filet_mignon/483510.jpg": {
+    "image": "data/val_caps_5perclass/filet_mignon/483510.jpg",
+    "class": "filet_mignon",
+    "filename": "483510.jpg",
+    "stem": "483510"
+  },
+  "filet_mignon/2611025.jpg": {
+    "image": "data/val_caps_5perclass/filet_mignon/2611025.jpg",
+    "class": "filet_mignon",
+    "filename": "2611025.jpg",
+    "stem": "2611025"
+  },
+  "filet_mignon/3450078.jpg": {
+    "image": "data/val_caps_5perclass/filet_mignon/3450078.jpg",
+    "class": "filet_mignon",
+    "filename": "3450078.jpg",
+    "stem": "3450078"
+  },
+  "fish_and_chips/1106451.jpg": {
+    "image": "data/val_caps_5perclass/fish_and_chips/1106451.jpg",
+    "class": "fish_and_chips",
+    "filename": "1106451.jpg",
+    "stem": "1106451"
+  },
+  "fish_and_chips/1614554.jpg": {
+    "image": "data/val_caps_5perclass/fish_and_chips/1614554.jpg",
+    "class": "fish_and_chips",
+    "filename": "1614554.jpg",
+    "stem": "1614554"
+  },
+  "fish_and_chips/2813636.jpg": {
+    "image": "data/val_caps_5perclass/fish_and_chips/2813636.jpg",
+    "class": "fish_and_chips",
+    "filename": "2813636.jpg",
+    "stem": "2813636"
+  },
+  "fish_and_chips/2525181.jpg": {
+    "image": "data/val_caps_5perclass/fish_and_chips/2525181.jpg",
+    "class": "fish_and_chips",
+    "filename": "2525181.jpg",
+    "stem": "2525181"
+  },
+  "fish_and_chips/2225942.jpg": {
+    "image": "data/val_caps_5perclass/fish_and_chips/2225942.jpg",
+    "class": "fish_and_chips",
+    "filename": "2225942.jpg",
+    "stem": "2225942"
+  },
+  "foie_gras/1252309.jpg": {
+    "image": "data/val_caps_5perclass/foie_gras/1252309.jpg",
+    "class": "foie_gras",
+    "filename": "1252309.jpg",
+    "stem": "1252309"
+  },
+  "foie_gras/197584.jpg": {
+    "image": "data/val_caps_5perclass/foie_gras/197584.jpg",
+    "class": "foie_gras",
+    "filename": "197584.jpg",
+    "stem": "197584"
+  },
+  "foie_gras/3658568.jpg": {
+    "image": "data/val_caps_5perclass/foie_gras/3658568.jpg",
+    "class": "foie_gras",
+    "filename": "3658568.jpg",
+    "stem": "3658568"
+  },
+  "foie_gras/1374901.jpg": {
+    "image": "data/val_caps_5perclass/foie_gras/1374901.jpg",
+    "class": "foie_gras",
+    "filename": "1374901.jpg",
+    "stem": "1374901"
+  },
+  "foie_gras/1408862.jpg": {
+    "image": "data/val_caps_5perclass/foie_gras/1408862.jpg",
+    "class": "foie_gras",
+    "filename": "1408862.jpg",
+    "stem": "1408862"
+  },
+  "french_fries/999328.jpg": {
+    "image": "data/val_caps_5perclass/french_fries/999328.jpg",
+    "class": "french_fries",
+    "filename": "999328.jpg",
+    "stem": "999328"
+  },
+  "french_fries/3343500.jpg": {
+    "image": "data/val_caps_5perclass/french_fries/3343500.jpg",
+    "class": "french_fries",
+    "filename": "3343500.jpg",
+    "stem": "3343500"
+  },
+  "french_fries/1424609.jpg": {
+    "image": "data/val_caps_5perclass/french_fries/1424609.jpg",
+    "class": "french_fries",
+    "filename": "1424609.jpg",
+    "stem": "1424609"
+  },
+  "french_fries/357993.jpg": {
+    "image": "data/val_caps_5perclass/french_fries/357993.jpg",
+    "class": "french_fries",
+    "filename": "357993.jpg",
+    "stem": "357993"
+  },
+  "french_fries/1697346.jpg": {
+    "image": "data/val_caps_5perclass/french_fries/1697346.jpg",
+    "class": "french_fries",
+    "filename": "1697346.jpg",
+    "stem": "1697346"
+  },
+  "french_onion_soup/1491419.jpg": {
+    "image": "data/val_caps_5perclass/french_onion_soup/1491419.jpg",
+    "class": "french_onion_soup",
+    "filename": "1491419.jpg",
+    "stem": "1491419"
+  },
+  "french_onion_soup/611796.jpg": {
+    "image": "data/val_caps_5perclass/french_onion_soup/611796.jpg",
+    "class": "french_onion_soup",
+    "filename": "611796.jpg",
+    "stem": "611796"
+  },
+  "french_onion_soup/3163165.jpg": {
+    "image": "data/val_caps_5perclass/french_onion_soup/3163165.jpg",
+    "class": "french_onion_soup",
+    "filename": "3163165.jpg",
+    "stem": "3163165"
+  },
+  "french_onion_soup/360474.jpg": {
+    "image": "data/val_caps_5perclass/french_onion_soup/360474.jpg",
+    "class": "french_onion_soup",
+    "filename": "360474.jpg",
+    "stem": "360474"
+  },
+  "french_onion_soup/1660448.jpg": {
+    "image": "data/val_caps_5perclass/french_onion_soup/1660448.jpg",
+    "class": "french_onion_soup",
+    "filename": "1660448.jpg",
+    "stem": "1660448"
+  },
+  "french_toast/2217438.jpg": {
+    "image": "data/val_caps_5perclass/french_toast/2217438.jpg",
+    "class": "french_toast",
+    "filename": "2217438.jpg",
+    "stem": "2217438"
+  },
+  "french_toast/3611677.jpg": {
+    "image": "data/val_caps_5perclass/french_toast/3611677.jpg",
+    "class": "french_toast",
+    "filename": "3611677.jpg",
+    "stem": "3611677"
+  },
+  "french_toast/505316.jpg": {
+    "image": "data/val_caps_5perclass/french_toast/505316.jpg",
+    "class": "french_toast",
+    "filename": "505316.jpg",
+    "stem": "505316"
+  },
+  "french_toast/3010575.jpg": {
+    "image": "data/val_caps_5perclass/french_toast/3010575.jpg",
+    "class": "french_toast",
+    "filename": "3010575.jpg",
+    "stem": "3010575"
+  },
+  "french_toast/2001159.jpg": {
+    "image": "data/val_caps_5perclass/french_toast/2001159.jpg",
+    "class": "french_toast",
+    "filename": "2001159.jpg",
+    "stem": "2001159"
+  },
+  "fried_calamari/3679563.jpg": {
+    "image": "data/val_caps_5perclass/fried_calamari/3679563.jpg",
+    "class": "fried_calamari",
+    "filename": "3679563.jpg",
+    "stem": "3679563"
+  },
+  "fried_calamari/995692.jpg": {
+    "image": "data/val_caps_5perclass/fried_calamari/995692.jpg",
+    "class": "fried_calamari",
+    "filename": "995692.jpg",
+    "stem": "995692"
+  },
+  "fried_calamari/851476.jpg": {
+    "image": "data/val_caps_5perclass/fried_calamari/851476.jpg",
+    "class": "fried_calamari",
+    "filename": "851476.jpg",
+    "stem": "851476"
+  },
+  "fried_calamari/1812768.jpg": {
+    "image": "data/val_caps_5perclass/fried_calamari/1812768.jpg",
+    "class": "fried_calamari",
+    "filename": "1812768.jpg",
+    "stem": "1812768"
+  },
+  "fried_calamari/938951.jpg": {
+    "image": "data/val_caps_5perclass/fried_calamari/938951.jpg",
+    "class": "fried_calamari",
+    "filename": "938951.jpg",
+    "stem": "938951"
+  },
+  "fried_rice/2499116.jpg": {
+    "image": "data/val_caps_5perclass/fried_rice/2499116.jpg",
+    "class": "fried_rice",
+    "filename": "2499116.jpg",
+    "stem": "2499116"
+  },
+  "fried_rice/2899815.jpg": {
+    "image": "data/val_caps_5perclass/fried_rice/2899815.jpg",
+    "class": "fried_rice",
+    "filename": "2899815.jpg",
+    "stem": "2899815"
+  },
+  "fried_rice/638391.jpg": {
+    "image": "data/val_caps_5perclass/fried_rice/638391.jpg",
+    "class": "fried_rice",
+    "filename": "638391.jpg",
+    "stem": "638391"
+  },
+  "fried_rice/557307.jpg": {
+    "image": "data/val_caps_5perclass/fried_rice/557307.jpg",
+    "class": "fried_rice",
+    "filename": "557307.jpg",
+    "stem": "557307"
+  },
+  "fried_rice/275531.jpg": {
+    "image": "data/val_caps_5perclass/fried_rice/275531.jpg",
+    "class": "fried_rice",
+    "filename": "275531.jpg",
+    "stem": "275531"
+  },
+  "frozen_yogurt/3104000.jpg": {
+    "image": "data/val_caps_5perclass/frozen_yogurt/3104000.jpg",
+    "class": "frozen_yogurt",
+    "filename": "3104000.jpg",
+    "stem": "3104000"
+  },
+  "frozen_yogurt/365464.jpg": {
+    "image": "data/val_caps_5perclass/frozen_yogurt/365464.jpg",
+    "class": "frozen_yogurt",
+    "filename": "365464.jpg",
+    "stem": "365464"
+  },
+  "frozen_yogurt/3212996.jpg": {
+    "image": "data/val_caps_5perclass/frozen_yogurt/3212996.jpg",
+    "class": "frozen_yogurt",
+    "filename": "3212996.jpg",
+    "stem": "3212996"
+  },
+  "frozen_yogurt/1608829.jpg": {
+    "image": "data/val_caps_5perclass/frozen_yogurt/1608829.jpg",
+    "class": "frozen_yogurt",
+    "filename": "1608829.jpg",
+    "stem": "1608829"
+  },
+  "frozen_yogurt/2113901.jpg": {
+    "image": "data/val_caps_5perclass/frozen_yogurt/2113901.jpg",
+    "class": "frozen_yogurt",
+    "filename": "2113901.jpg",
+    "stem": "2113901"
+  },
+  "garlic_bread/2208553.jpg": {
+    "image": "data/val_caps_5perclass/garlic_bread/2208553.jpg",
+    "class": "garlic_bread",
+    "filename": "2208553.jpg",
+    "stem": "2208553"
+  },
+  "garlic_bread/1379499.jpg": {
+    "image": "data/val_caps_5perclass/garlic_bread/1379499.jpg",
+    "class": "garlic_bread",
+    "filename": "1379499.jpg",
+    "stem": "1379499"
+  },
+  "garlic_bread/2706670.jpg": {
+    "image": "data/val_caps_5perclass/garlic_bread/2706670.jpg",
+    "class": "garlic_bread",
+    "filename": "2706670.jpg",
+    "stem": "2706670"
+  },
+  "garlic_bread/1113682.jpg": {
+    "image": "data/val_caps_5perclass/garlic_bread/1113682.jpg",
+    "class": "garlic_bread",
+    "filename": "1113682.jpg",
+    "stem": "1113682"
+  },
+  "garlic_bread/3765793.jpg": {
+    "image": "data/val_caps_5perclass/garlic_bread/3765793.jpg",
+    "class": "garlic_bread",
+    "filename": "3765793.jpg",
+    "stem": "3765793"
+  },
+  "gnocchi/371754.jpg": {
+    "image": "data/val_caps_5perclass/gnocchi/371754.jpg",
+    "class": "gnocchi",
+    "filename": "371754.jpg",
+    "stem": "371754"
+  },
+  "gnocchi/21471.jpg": {
+    "image": "data/val_caps_5perclass/gnocchi/21471.jpg",
+    "class": "gnocchi",
+    "filename": "21471.jpg",
+    "stem": "21471"
+  },
+  "gnocchi/3874538.jpg": {
+    "image": "data/val_caps_5perclass/gnocchi/3874538.jpg",
+    "class": "gnocchi",
+    "filename": "3874538.jpg",
+    "stem": "3874538"
+  },
+  "gnocchi/2134003.jpg": {
+    "image": "data/val_caps_5perclass/gnocchi/2134003.jpg",
+    "class": "gnocchi",
+    "filename": "2134003.jpg",
+    "stem": "2134003"
+  },
+  "gnocchi/1050273.jpg": {
+    "image": "data/val_caps_5perclass/gnocchi/1050273.jpg",
+    "class": "gnocchi",
+    "filename": "1050273.jpg",
+    "stem": "1050273"
+  },
+  "greek_salad/1347297.jpg": {
+    "image": "data/val_caps_5perclass/greek_salad/1347297.jpg",
+    "class": "greek_salad",
+    "filename": "1347297.jpg",
+    "stem": "1347297"
+  },
+  "greek_salad/861989.jpg": {
+    "image": "data/val_caps_5perclass/greek_salad/861989.jpg",
+    "class": "greek_salad",
+    "filename": "861989.jpg",
+    "stem": "861989"
+  },
+  "greek_salad/54189.jpg": {
+    "image": "data/val_caps_5perclass/greek_salad/54189.jpg",
+    "class": "greek_salad",
+    "filename": "54189.jpg",
+    "stem": "54189"
+  },
+  "greek_salad/1313752.jpg": {
+    "image": "data/val_caps_5perclass/greek_salad/1313752.jpg",
+    "class": "greek_salad",
+    "filename": "1313752.jpg",
+    "stem": "1313752"
+  },
+  "greek_salad/2125970.jpg": {
+    "image": "data/val_caps_5perclass/greek_salad/2125970.jpg",
+    "class": "greek_salad",
+    "filename": "2125970.jpg",
+    "stem": "2125970"
+  },
+  "grilled_cheese_sandwich/1250586.jpg": {
+    "image": "data/val_caps_5perclass/grilled_cheese_sandwich/1250586.jpg",
+    "class": "grilled_cheese_sandwich",
+    "filename": "1250586.jpg",
+    "stem": "1250586"
+  },
+  "grilled_cheese_sandwich/1098482.jpg": {
+    "image": "data/val_caps_5perclass/grilled_cheese_sandwich/1098482.jpg",
+    "class": "grilled_cheese_sandwich",
+    "filename": "1098482.jpg",
+    "stem": "1098482"
+  },
+  "grilled_cheese_sandwich/247.jpg": {
+    "image": "data/val_caps_5perclass/grilled_cheese_sandwich/247.jpg",
+    "class": "grilled_cheese_sandwich",
+    "filename": "247.jpg",
+    "stem": "247"
+  },
+  "grilled_cheese_sandwich/1264191.jpg": {
+    "image": "data/val_caps_5perclass/grilled_cheese_sandwich/1264191.jpg",
+    "class": "grilled_cheese_sandwich",
+    "filename": "1264191.jpg",
+    "stem": "1264191"
+  },
+  "grilled_cheese_sandwich/3718019.jpg": {
+    "image": "data/val_caps_5perclass/grilled_cheese_sandwich/3718019.jpg",
+    "class": "grilled_cheese_sandwich",
+    "filename": "3718019.jpg",
+    "stem": "3718019"
+  },
+  "grilled_salmon/2155390.jpg": {
+    "image": "data/val_caps_5perclass/grilled_salmon/2155390.jpg",
+    "class": "grilled_salmon",
+    "filename": "2155390.jpg",
+    "stem": "2155390"
+  },
+  "grilled_salmon/2347022.jpg": {
+    "image": "data/val_caps_5perclass/grilled_salmon/2347022.jpg",
+    "class": "grilled_salmon",
+    "filename": "2347022.jpg",
+    "stem": "2347022"
+  },
+  "grilled_salmon/728335.jpg": {
+    "image": "data/val_caps_5perclass/grilled_salmon/728335.jpg",
+    "class": "grilled_salmon",
+    "filename": "728335.jpg",
+    "stem": "728335"
+  },
+  "grilled_salmon/3343628.jpg": {
+    "image": "data/val_caps_5perclass/grilled_salmon/3343628.jpg",
+    "class": "grilled_salmon",
+    "filename": "3343628.jpg",
+    "stem": "3343628"
+  },
+  "grilled_salmon/2046233.jpg": {
+    "image": "data/val_caps_5perclass/grilled_salmon/2046233.jpg",
+    "class": "grilled_salmon",
+    "filename": "2046233.jpg",
+    "stem": "2046233"
+  },
+  "guacamole/372405.jpg": {
+    "image": "data/val_caps_5perclass/guacamole/372405.jpg",
+    "class": "guacamole",
+    "filename": "372405.jpg",
+    "stem": "372405"
+  },
+  "guacamole/172593.jpg": {
+    "image": "data/val_caps_5perclass/guacamole/172593.jpg",
+    "class": "guacamole",
+    "filename": "172593.jpg",
+    "stem": "172593"
+  },
+  "guacamole/947826.jpg": {
+    "image": "data/val_caps_5perclass/guacamole/947826.jpg",
+    "class": "guacamole",
+    "filename": "947826.jpg",
+    "stem": "947826"
+  },
+  "guacamole/3875945.jpg": {
+    "image": "data/val_caps_5perclass/guacamole/3875945.jpg",
+    "class": "guacamole",
+    "filename": "3875945.jpg",
+    "stem": "3875945"
+  },
+  "guacamole/389627.jpg": {
+    "image": "data/val_caps_5perclass/guacamole/389627.jpg",
+    "class": "guacamole",
+    "filename": "389627.jpg",
+    "stem": "389627"
+  },
+  "gyoza/3361725.jpg": {
+    "image": "data/val_caps_5perclass/gyoza/3361725.jpg",
+    "class": "gyoza",
+    "filename": "3361725.jpg",
+    "stem": "3361725"
+  },
+  "gyoza/233109.jpg": {
+    "image": "data/val_caps_5perclass/gyoza/233109.jpg",
+    "class": "gyoza",
+    "filename": "233109.jpg",
+    "stem": "233109"
+  },
+  "gyoza/3065238.jpg": {
+    "image": "data/val_caps_5perclass/gyoza/3065238.jpg",
+    "class": "gyoza",
+    "filename": "3065238.jpg",
+    "stem": "3065238"
+  },
+  "gyoza/2034640.jpg": {
+    "image": "data/val_caps_5perclass/gyoza/2034640.jpg",
+    "class": "gyoza",
+    "filename": "2034640.jpg",
+    "stem": "2034640"
+  },
+  "gyoza/1544984.jpg": {
+    "image": "data/val_caps_5perclass/gyoza/1544984.jpg",
+    "class": "gyoza",
+    "filename": "1544984.jpg",
+    "stem": "1544984"
+  },
+  "hamburger/1489337.jpg": {
+    "image": "data/val_caps_5perclass/hamburger/1489337.jpg",
+    "class": "hamburger",
+    "filename": "1489337.jpg",
+    "stem": "1489337"
+  },
+  "hamburger/697480.jpg": {
+    "image": "data/val_caps_5perclass/hamburger/697480.jpg",
+    "class": "hamburger",
+    "filename": "697480.jpg",
+    "stem": "697480"
+  },
+  "hamburger/3213507.jpg": {
+    "image": "data/val_caps_5perclass/hamburger/3213507.jpg",
+    "class": "hamburger",
+    "filename": "3213507.jpg",
+    "stem": "3213507"
+  },
+  "hamburger/2790429.jpg": {
+    "image": "data/val_caps_5perclass/hamburger/2790429.jpg",
+    "class": "hamburger",
+    "filename": "2790429.jpg",
+    "stem": "2790429"
+  },
+  "hamburger/315876.jpg": {
+    "image": "data/val_caps_5perclass/hamburger/315876.jpg",
+    "class": "hamburger",
+    "filename": "315876.jpg",
+    "stem": "315876"
+  },
+  "hot_and_sour_soup/2927068.jpg": {
+    "image": "data/val_caps_5perclass/hot_and_sour_soup/2927068.jpg",
+    "class": "hot_and_sour_soup",
+    "filename": "2927068.jpg",
+    "stem": "2927068"
+  },
+  "hot_and_sour_soup/3236876.jpg": {
+    "image": "data/val_caps_5perclass/hot_and_sour_soup/3236876.jpg",
+    "class": "hot_and_sour_soup",
+    "filename": "3236876.jpg",
+    "stem": "3236876"
+  },
+  "hot_and_sour_soup/991636.jpg": {
+    "image": "data/val_caps_5perclass/hot_and_sour_soup/991636.jpg",
+    "class": "hot_and_sour_soup",
+    "filename": "991636.jpg",
+    "stem": "991636"
+  },
+  "hot_and_sour_soup/12248.jpg": {
+    "image": "data/val_caps_5perclass/hot_and_sour_soup/12248.jpg",
+    "class": "hot_and_sour_soup",
+    "filename": "12248.jpg",
+    "stem": "12248"
+  },
+  "hot_and_sour_soup/799144.jpg": {
+    "image": "data/val_caps_5perclass/hot_and_sour_soup/799144.jpg",
+    "class": "hot_and_sour_soup",
+    "filename": "799144.jpg",
+    "stem": "799144"
+  },
+  "hot_dog/73523.jpg": {
+    "image": "data/val_caps_5perclass/hot_dog/73523.jpg",
+    "class": "hot_dog",
+    "filename": "73523.jpg",
+    "stem": "73523"
+  },
+  "hot_dog/697073.jpg": {
+    "image": "data/val_caps_5perclass/hot_dog/697073.jpg",
+    "class": "hot_dog",
+    "filename": "697073.jpg",
+    "stem": "697073"
+  },
+  "hot_dog/1431639.jpg": {
+    "image": "data/val_caps_5perclass/hot_dog/1431639.jpg",
+    "class": "hot_dog",
+    "filename": "1431639.jpg",
+    "stem": "1431639"
+  },
+  "hot_dog/1233688.jpg": {
+    "image": "data/val_caps_5perclass/hot_dog/1233688.jpg",
+    "class": "hot_dog",
+    "filename": "1233688.jpg",
+    "stem": "1233688"
+  },
+  "hot_dog/3117732.jpg": {
+    "image": "data/val_caps_5perclass/hot_dog/3117732.jpg",
+    "class": "hot_dog",
+    "filename": "3117732.jpg",
+    "stem": "3117732"
+  },
+  "huevos_rancheros/978657.jpg": {
+    "image": "data/val_caps_5perclass/huevos_rancheros/978657.jpg",
+    "class": "huevos_rancheros",
+    "filename": "978657.jpg",
+    "stem": "978657"
+  },
+  "huevos_rancheros/2600462.jpg": {
+    "image": "data/val_caps_5perclass/huevos_rancheros/2600462.jpg",
+    "class": "huevos_rancheros",
+    "filename": "2600462.jpg",
+    "stem": "2600462"
+  },
+  "huevos_rancheros/1448656.jpg": {
+    "image": "data/val_caps_5perclass/huevos_rancheros/1448656.jpg",
+    "class": "huevos_rancheros",
+    "filename": "1448656.jpg",
+    "stem": "1448656"
+  },
+  "huevos_rancheros/2127964.jpg": {
+    "image": "data/val_caps_5perclass/huevos_rancheros/2127964.jpg",
+    "class": "huevos_rancheros",
+    "filename": "2127964.jpg",
+    "stem": "2127964"
+  },
+  "huevos_rancheros/1853476.jpg": {
+    "image": "data/val_caps_5perclass/huevos_rancheros/1853476.jpg",
+    "class": "huevos_rancheros",
+    "filename": "1853476.jpg",
+    "stem": "1853476"
+  },
+  "hummus/1993902.jpg": {
+    "image": "data/val_caps_5perclass/hummus/1993902.jpg",
+    "class": "hummus",
+    "filename": "1993902.jpg",
+    "stem": "1993902"
+  },
+  "hummus/3626094.jpg": {
+    "image": "data/val_caps_5perclass/hummus/3626094.jpg",
+    "class": "hummus",
+    "filename": "3626094.jpg",
+    "stem": "3626094"
+  },
+  "hummus/3253521.jpg": {
+    "image": "data/val_caps_5perclass/hummus/3253521.jpg",
+    "class": "hummus",
+    "filename": "3253521.jpg",
+    "stem": "3253521"
+  },
+  "hummus/1785054.jpg": {
+    "image": "data/val_caps_5perclass/hummus/1785054.jpg",
+    "class": "hummus",
+    "filename": "1785054.jpg",
+    "stem": "1785054"
+  },
+  "hummus/3102377.jpg": {
+    "image": "data/val_caps_5perclass/hummus/3102377.jpg",
+    "class": "hummus",
+    "filename": "3102377.jpg",
+    "stem": "3102377"
+  },
+  "ice_cream/19487.jpg": {
+    "image": "data/val_caps_5perclass/ice_cream/19487.jpg",
+    "class": "ice_cream",
+    "filename": "19487.jpg",
+    "stem": "19487"
+  },
+  "ice_cream/2289445.jpg": {
+    "image": "data/val_caps_5perclass/ice_cream/2289445.jpg",
+    "class": "ice_cream",
+    "filename": "2289445.jpg",
+    "stem": "2289445"
+  },
+  "ice_cream/329878.jpg": {
+    "image": "data/val_caps_5perclass/ice_cream/329878.jpg",
+    "class": "ice_cream",
+    "filename": "329878.jpg",
+    "stem": "329878"
+  },
+  "ice_cream/2179708.jpg": {
+    "image": "data/val_caps_5perclass/ice_cream/2179708.jpg",
+    "class": "ice_cream",
+    "filename": "2179708.jpg",
+    "stem": "2179708"
+  },
+  "ice_cream/1538888.jpg": {
+    "image": "data/val_caps_5perclass/ice_cream/1538888.jpg",
+    "class": "ice_cream",
+    "filename": "1538888.jpg",
+    "stem": "1538888"
+  },
+  "lasagna/318954.jpg": {
+    "image": "data/val_caps_5perclass/lasagna/318954.jpg",
+    "class": "lasagna",
+    "filename": "318954.jpg",
+    "stem": "318954"
+  },
+  "lasagna/3607924.jpg": {
+    "image": "data/val_caps_5perclass/lasagna/3607924.jpg",
+    "class": "lasagna",
+    "filename": "3607924.jpg",
+    "stem": "3607924"
+  },
+  "lasagna/1481081.jpg": {
+    "image": "data/val_caps_5perclass/lasagna/1481081.jpg",
+    "class": "lasagna",
+    "filename": "1481081.jpg",
+    "stem": "1481081"
+  },
+  "lasagna/1260880.jpg": {
+    "image": "data/val_caps_5perclass/lasagna/1260880.jpg",
+    "class": "lasagna",
+    "filename": "1260880.jpg",
+    "stem": "1260880"
+  },
+  "lasagna/522540.jpg": {
+    "image": "data/val_caps_5perclass/lasagna/522540.jpg",
+    "class": "lasagna",
+    "filename": "522540.jpg",
+    "stem": "522540"
+  },
+  "lobster_bisque/350399.jpg": {
+    "image": "data/val_caps_5perclass/lobster_bisque/350399.jpg",
+    "class": "lobster_bisque",
+    "filename": "350399.jpg",
+    "stem": "350399"
+  },
+  "lobster_bisque/1091315.jpg": {
+    "image": "data/val_caps_5perclass/lobster_bisque/1091315.jpg",
+    "class": "lobster_bisque",
+    "filename": "1091315.jpg",
+    "stem": "1091315"
+  },
+  "lobster_bisque/145735.jpg": {
+    "image": "data/val_caps_5perclass/lobster_bisque/145735.jpg",
+    "class": "lobster_bisque",
+    "filename": "145735.jpg",
+    "stem": "145735"
+  },
+  "lobster_bisque/2223364.jpg": {
+    "image": "data/val_caps_5perclass/lobster_bisque/2223364.jpg",
+    "class": "lobster_bisque",
+    "filename": "2223364.jpg",
+    "stem": "2223364"
+  },
+  "lobster_bisque/1873122.jpg": {
+    "image": "data/val_caps_5perclass/lobster_bisque/1873122.jpg",
+    "class": "lobster_bisque",
+    "filename": "1873122.jpg",
+    "stem": "1873122"
+  },
+  "lobster_roll_sandwich/3034836.jpg": {
+    "image": "data/val_caps_5perclass/lobster_roll_sandwich/3034836.jpg",
+    "class": "lobster_roll_sandwich",
+    "filename": "3034836.jpg",
+    "stem": "3034836"
+  },
+  "lobster_roll_sandwich/424786.jpg": {
+    "image": "data/val_caps_5perclass/lobster_roll_sandwich/424786.jpg",
+    "class": "lobster_roll_sandwich",
+    "filename": "424786.jpg",
+    "stem": "424786"
+  },
+  "lobster_roll_sandwich/415724.jpg": {
+    "image": "data/val_caps_5perclass/lobster_roll_sandwich/415724.jpg",
+    "class": "lobster_roll_sandwich",
+    "filename": "415724.jpg",
+    "stem": "415724"
+  },
+  "lobster_roll_sandwich/1993356.jpg": {
+    "image": "data/val_caps_5perclass/lobster_roll_sandwich/1993356.jpg",
+    "class": "lobster_roll_sandwich",
+    "filename": "1993356.jpg",
+    "stem": "1993356"
+  },
+  "lobster_roll_sandwich/3012237.jpg": {
+    "image": "data/val_caps_5perclass/lobster_roll_sandwich/3012237.jpg",
+    "class": "lobster_roll_sandwich",
+    "filename": "3012237.jpg",
+    "stem": "3012237"
+  },
+  "macaroni_and_cheese/1255658.jpg": {
+    "image": "data/val_caps_5perclass/macaroni_and_cheese/1255658.jpg",
+    "class": "macaroni_and_cheese",
+    "filename": "1255658.jpg",
+    "stem": "1255658"
+  },
+  "macaroni_and_cheese/1764011.jpg": {
+    "image": "data/val_caps_5perclass/macaroni_and_cheese/1764011.jpg",
+    "class": "macaroni_and_cheese",
+    "filename": "1764011.jpg",
+    "stem": "1764011"
+  },
+  "macaroni_and_cheese/2769214.jpg": {
+    "image": "data/val_caps_5perclass/macaroni_and_cheese/2769214.jpg",
+    "class": "macaroni_and_cheese",
+    "filename": "2769214.jpg",
+    "stem": "2769214"
+  },
+  "macaroni_and_cheese/101810.jpg": {
+    "image": "data/val_caps_5perclass/macaroni_and_cheese/101810.jpg",
+    "class": "macaroni_and_cheese",
+    "filename": "101810.jpg",
+    "stem": "101810"
+  },
+  "macaroni_and_cheese/2847776.jpg": {
+    "image": "data/val_caps_5perclass/macaroni_and_cheese/2847776.jpg",
+    "class": "macaroni_and_cheese",
+    "filename": "2847776.jpg",
+    "stem": "2847776"
+  },
+  "macarons/2301396.jpg": {
+    "image": "data/val_caps_5perclass/macarons/2301396.jpg",
+    "class": "macarons",
+    "filename": "2301396.jpg",
+    "stem": "2301396"
+  },
+  "macarons/3226649.jpg": {
+    "image": "data/val_caps_5perclass/macarons/3226649.jpg",
+    "class": "macarons",
+    "filename": "3226649.jpg",
+    "stem": "3226649"
+  },
+  "macarons/2421276.jpg": {
+    "image": "data/val_caps_5perclass/macarons/2421276.jpg",
+    "class": "macarons",
+    "filename": "2421276.jpg",
+    "stem": "2421276"
+  },
+  "macarons/3052610.jpg": {
+    "image": "data/val_caps_5perclass/macarons/3052610.jpg",
+    "class": "macarons",
+    "filename": "3052610.jpg",
+    "stem": "3052610"
+  },
+  "macarons/891927.jpg": {
+    "image": "data/val_caps_5perclass/macarons/891927.jpg",
+    "class": "macarons",
+    "filename": "891927.jpg",
+    "stem": "891927"
+  },
+  "miso_soup/993503.jpg": {
+    "image": "data/val_caps_5perclass/miso_soup/993503.jpg",
+    "class": "miso_soup",
+    "filename": "993503.jpg",
+    "stem": "993503"
+  },
+  "miso_soup/361648.jpg": {
+    "image": "data/val_caps_5perclass/miso_soup/361648.jpg",
+    "class": "miso_soup",
+    "filename": "361648.jpg",
+    "stem": "361648"
+  },
+  "miso_soup/649832.jpg": {
+    "image": "data/val_caps_5perclass/miso_soup/649832.jpg",
+    "class": "miso_soup",
+    "filename": "649832.jpg",
+    "stem": "649832"
+  },
+  "miso_soup/938513.jpg": {
+    "image": "data/val_caps_5perclass/miso_soup/938513.jpg",
+    "class": "miso_soup",
+    "filename": "938513.jpg",
+    "stem": "938513"
+  },
+  "miso_soup/3232792.jpg": {
+    "image": "data/val_caps_5perclass/miso_soup/3232792.jpg",
+    "class": "miso_soup",
+    "filename": "3232792.jpg",
+    "stem": "3232792"
+  },
+  "mussels/1778619.jpg": {
+    "image": "data/val_caps_5perclass/mussels/1778619.jpg",
+    "class": "mussels",
+    "filename": "1778619.jpg",
+    "stem": "1778619"
+  },
+  "mussels/1983047.jpg": {
+    "image": "data/val_caps_5perclass/mussels/1983047.jpg",
+    "class": "mussels",
+    "filename": "1983047.jpg",
+    "stem": "1983047"
+  },
+  "mussels/2510658.jpg": {
+    "image": "data/val_caps_5perclass/mussels/2510658.jpg",
+    "class": "mussels",
+    "filename": "2510658.jpg",
+    "stem": "2510658"
+  },
+  "mussels/2140519.jpg": {
+    "image": "data/val_caps_5perclass/mussels/2140519.jpg",
+    "class": "mussels",
+    "filename": "2140519.jpg",
+    "stem": "2140519"
+  },
+  "mussels/1315331.jpg": {
+    "image": "data/val_caps_5perclass/mussels/1315331.jpg",
+    "class": "mussels",
+    "filename": "1315331.jpg",
+    "stem": "1315331"
+  },
+  "nachos/3853497.jpg": {
+    "image": "data/val_caps_5perclass/nachos/3853497.jpg",
+    "class": "nachos",
+    "filename": "3853497.jpg",
+    "stem": "3853497"
+  },
+  "nachos/364973.jpg": {
+    "image": "data/val_caps_5perclass/nachos/364973.jpg",
+    "class": "nachos",
+    "filename": "364973.jpg",
+    "stem": "364973"
+  },
+  "nachos/1314977.jpg": {
+    "image": "data/val_caps_5perclass/nachos/1314977.jpg",
+    "class": "nachos",
+    "filename": "1314977.jpg",
+    "stem": "1314977"
+  },
+  "nachos/2583236.jpg": {
+    "image": "data/val_caps_5perclass/nachos/2583236.jpg",
+    "class": "nachos",
+    "filename": "2583236.jpg",
+    "stem": "2583236"
+  },
+  "nachos/1304126.jpg": {
+    "image": "data/val_caps_5perclass/nachos/1304126.jpg",
+    "class": "nachos",
+    "filename": "1304126.jpg",
+    "stem": "1304126"
+  },
+  "omelette/1323602.jpg": {
+    "image": "data/val_caps_5perclass/omelette/1323602.jpg",
+    "class": "omelette",
+    "filename": "1323602.jpg",
+    "stem": "1323602"
+  },
+  "omelette/3872651.jpg": {
+    "image": "data/val_caps_5perclass/omelette/3872651.jpg",
+    "class": "omelette",
+    "filename": "3872651.jpg",
+    "stem": "3872651"
+  },
+  "omelette/3319061.jpg": {
+    "image": "data/val_caps_5perclass/omelette/3319061.jpg",
+    "class": "omelette",
+    "filename": "3319061.jpg",
+    "stem": "3319061"
+  },
+  "omelette/3443038.jpg": {
+    "image": "data/val_caps_5perclass/omelette/3443038.jpg",
+    "class": "omelette",
+    "filename": "3443038.jpg",
+    "stem": "3443038"
+  },
+  "omelette/3577286.jpg": {
+    "image": "data/val_caps_5perclass/omelette/3577286.jpg",
+    "class": "omelette",
+    "filename": "3577286.jpg",
+    "stem": "3577286"
+  },
+  "onion_rings/1741220.jpg": {
+    "image": "data/val_caps_5perclass/onion_rings/1741220.jpg",
+    "class": "onion_rings",
+    "filename": "1741220.jpg",
+    "stem": "1741220"
+  },
+  "onion_rings/1249922.jpg": {
+    "image": "data/val_caps_5perclass/onion_rings/1249922.jpg",
+    "class": "onion_rings",
+    "filename": "1249922.jpg",
+    "stem": "1249922"
+  },
+  "onion_rings/3442960.jpg": {
+    "image": "data/val_caps_5perclass/onion_rings/3442960.jpg",
+    "class": "onion_rings",
+    "filename": "3442960.jpg",
+    "stem": "3442960"
+  },
+  "onion_rings/1355686.jpg": {
+    "image": "data/val_caps_5perclass/onion_rings/1355686.jpg",
+    "class": "onion_rings",
+    "filename": "1355686.jpg",
+    "stem": "1355686"
+  },
+  "onion_rings/1859576.jpg": {
+    "image": "data/val_caps_5perclass/onion_rings/1859576.jpg",
+    "class": "onion_rings",
+    "filename": "1859576.jpg",
+    "stem": "1859576"
+  },
+  "oysters/1398531.jpg": {
+    "image": "data/val_caps_5perclass/oysters/1398531.jpg",
+    "class": "oysters",
+    "filename": "1398531.jpg",
+    "stem": "1398531"
+  },
+  "oysters/3902248.jpg": {
+    "image": "data/val_caps_5perclass/oysters/3902248.jpg",
+    "class": "oysters",
+    "filename": "3902248.jpg",
+    "stem": "3902248"
+  },
+  "oysters/1390195.jpg": {
+    "image": "data/val_caps_5perclass/oysters/1390195.jpg",
+    "class": "oysters",
+    "filename": "1390195.jpg",
+    "stem": "1390195"
+  },
+  "oysters/71754.jpg": {
+    "image": "data/val_caps_5perclass/oysters/71754.jpg",
+    "class": "oysters",
+    "filename": "71754.jpg",
+    "stem": "71754"
+  },
+  "oysters/221135.jpg": {
+    "image": "data/val_caps_5perclass/oysters/221135.jpg",
+    "class": "oysters",
+    "filename": "221135.jpg",
+    "stem": "221135"
+  },
+  "pad_thai/2758835.jpg": {
+    "image": "data/val_caps_5perclass/pad_thai/2758835.jpg",
+    "class": "pad_thai",
+    "filename": "2758835.jpg",
+    "stem": "2758835"
+  },
+  "pad_thai/1473039.jpg": {
+    "image": "data/val_caps_5perclass/pad_thai/1473039.jpg",
+    "class": "pad_thai",
+    "filename": "1473039.jpg",
+    "stem": "1473039"
+  },
+  "pad_thai/3761173.jpg": {
+    "image": "data/val_caps_5perclass/pad_thai/3761173.jpg",
+    "class": "pad_thai",
+    "filename": "3761173.jpg",
+    "stem": "3761173"
+  },
+  "pad_thai/2054776.jpg": {
+    "image": "data/val_caps_5perclass/pad_thai/2054776.jpg",
+    "class": "pad_thai",
+    "filename": "2054776.jpg",
+    "stem": "2054776"
+  },
+  "pad_thai/3809763.jpg": {
+    "image": "data/val_caps_5perclass/pad_thai/3809763.jpg",
+    "class": "pad_thai",
+    "filename": "3809763.jpg",
+    "stem": "3809763"
+  },
+  "paella/3818185.jpg": {
+    "image": "data/val_caps_5perclass/paella/3818185.jpg",
+    "class": "paella",
+    "filename": "3818185.jpg",
+    "stem": "3818185"
+  },
+  "paella/1219289.jpg": {
+    "image": "data/val_caps_5perclass/paella/1219289.jpg",
+    "class": "paella",
+    "filename": "1219289.jpg",
+    "stem": "1219289"
+  },
+  "paella/440387.jpg": {
+    "image": "data/val_caps_5perclass/paella/440387.jpg",
+    "class": "paella",
+    "filename": "440387.jpg",
+    "stem": "440387"
+  },
+  "paella/1407975.jpg": {
+    "image": "data/val_caps_5perclass/paella/1407975.jpg",
+    "class": "paella",
+    "filename": "1407975.jpg",
+    "stem": "1407975"
+  },
+  "paella/304327.jpg": {
+    "image": "data/val_caps_5perclass/paella/304327.jpg",
+    "class": "paella",
+    "filename": "304327.jpg",
+    "stem": "304327"
+  },
+  "pancakes/712194.jpg": {
+    "image": "data/val_caps_5perclass/pancakes/712194.jpg",
+    "class": "pancakes",
+    "filename": "712194.jpg",
+    "stem": "712194"
+  },
+  "pancakes/419199.jpg": {
+    "image": "data/val_caps_5perclass/pancakes/419199.jpg",
+    "class": "pancakes",
+    "filename": "419199.jpg",
+    "stem": "419199"
+  },
+  "pancakes/3885888.jpg": {
+    "image": "data/val_caps_5perclass/pancakes/3885888.jpg",
+    "class": "pancakes",
+    "filename": "3885888.jpg",
+    "stem": "3885888"
+  },
+  "pancakes/3666966.jpg": {
+    "image": "data/val_caps_5perclass/pancakes/3666966.jpg",
+    "class": "pancakes",
+    "filename": "3666966.jpg",
+    "stem": "3666966"
+  },
+  "pancakes/2681648.jpg": {
+    "image": "data/val_caps_5perclass/pancakes/2681648.jpg",
+    "class": "pancakes",
+    "filename": "2681648.jpg",
+    "stem": "2681648"
+  },
+  "panna_cotta/2262300.jpg": {
+    "image": "data/val_caps_5perclass/panna_cotta/2262300.jpg",
+    "class": "panna_cotta",
+    "filename": "2262300.jpg",
+    "stem": "2262300"
+  },
+  "panna_cotta/1978609.jpg": {
+    "image": "data/val_caps_5perclass/panna_cotta/1978609.jpg",
+    "class": "panna_cotta",
+    "filename": "1978609.jpg",
+    "stem": "1978609"
+  },
+  "panna_cotta/603878.jpg": {
+    "image": "data/val_caps_5perclass/panna_cotta/603878.jpg",
+    "class": "panna_cotta",
+    "filename": "603878.jpg",
+    "stem": "603878"
+  },
+  "panna_cotta/919578.jpg": {
+    "image": "data/val_caps_5perclass/panna_cotta/919578.jpg",
+    "class": "panna_cotta",
+    "filename": "919578.jpg",
+    "stem": "919578"
+  },
+  "panna_cotta/2472106.jpg": {
+    "image": "data/val_caps_5perclass/panna_cotta/2472106.jpg",
+    "class": "panna_cotta",
+    "filename": "2472106.jpg",
+    "stem": "2472106"
+  },
+  "peking_duck/2135872.jpg": {
+    "image": "data/val_caps_5perclass/peking_duck/2135872.jpg",
+    "class": "peking_duck",
+    "filename": "2135872.jpg",
+    "stem": "2135872"
+  },
+  "peking_duck/2278883.jpg": {
+    "image": "data/val_caps_5perclass/peking_duck/2278883.jpg",
+    "class": "peking_duck",
+    "filename": "2278883.jpg",
+    "stem": "2278883"
+  },
+  "peking_duck/2887819.jpg": {
+    "image": "data/val_caps_5perclass/peking_duck/2887819.jpg",
+    "class": "peking_duck",
+    "filename": "2887819.jpg",
+    "stem": "2887819"
+  },
+  "peking_duck/162258.jpg": {
+    "image": "data/val_caps_5perclass/peking_duck/162258.jpg",
+    "class": "peking_duck",
+    "filename": "162258.jpg",
+    "stem": "162258"
+  },
+  "peking_duck/714928.jpg": {
+    "image": "data/val_caps_5perclass/peking_duck/714928.jpg",
+    "class": "peking_duck",
+    "filename": "714928.jpg",
+    "stem": "714928"
+  },
+  "pho/645258.jpg": {
+    "image": "data/val_caps_5perclass/pho/645258.jpg",
+    "class": "pho",
+    "filename": "645258.jpg",
+    "stem": "645258"
+  },
+  "pho/2667172.jpg": {
+    "image": "data/val_caps_5perclass/pho/2667172.jpg",
+    "class": "pho",
+    "filename": "2667172.jpg",
+    "stem": "2667172"
+  },
+  "pho/3384556.jpg": {
+    "image": "data/val_caps_5perclass/pho/3384556.jpg",
+    "class": "pho",
+    "filename": "3384556.jpg",
+    "stem": "3384556"
+  },
+  "pho/2742214.jpg": {
+    "image": "data/val_caps_5perclass/pho/2742214.jpg",
+    "class": "pho",
+    "filename": "2742214.jpg",
+    "stem": "2742214"
+  },
+  "pho/13228.jpg": {
+    "image": "data/val_caps_5perclass/pho/13228.jpg",
+    "class": "pho",
+    "filename": "13228.jpg",
+    "stem": "13228"
+  },
+  "pizza/1035854.jpg": {
+    "image": "data/val_caps_5perclass/pizza/1035854.jpg",
+    "class": "pizza",
+    "filename": "1035854.jpg",
+    "stem": "1035854"
+  },
+  "pizza/3338774.jpg": {
+    "image": "data/val_caps_5perclass/pizza/3338774.jpg",
+    "class": "pizza",
+    "filename": "3338774.jpg",
+    "stem": "3338774"
+  },
+  "pizza/618348.jpg": {
+    "image": "data/val_caps_5perclass/pizza/618348.jpg",
+    "class": "pizza",
+    "filename": "618348.jpg",
+    "stem": "618348"
+  },
+  "pizza/3864383.jpg": {
+    "image": "data/val_caps_5perclass/pizza/3864383.jpg",
+    "class": "pizza",
+    "filename": "3864383.jpg",
+    "stem": "3864383"
+  },
+  "pizza/1524655.jpg": {
+    "image": "data/val_caps_5perclass/pizza/1524655.jpg",
+    "class": "pizza",
+    "filename": "1524655.jpg",
+    "stem": "1524655"
+  },
+  "pork_chop/1306525.jpg": {
+    "image": "data/val_caps_5perclass/pork_chop/1306525.jpg",
+    "class": "pork_chop",
+    "filename": "1306525.jpg",
+    "stem": "1306525"
+  },
+  "pork_chop/3716550.jpg": {
+    "image": "data/val_caps_5perclass/pork_chop/3716550.jpg",
+    "class": "pork_chop",
+    "filename": "3716550.jpg",
+    "stem": "3716550"
+  },
+  "pork_chop/2093350.jpg": {
+    "image": "data/val_caps_5perclass/pork_chop/2093350.jpg",
+    "class": "pork_chop",
+    "filename": "2093350.jpg",
+    "stem": "2093350"
+  },
+  "pork_chop/3558217.jpg": {
+    "image": "data/val_caps_5perclass/pork_chop/3558217.jpg",
+    "class": "pork_chop",
+    "filename": "3558217.jpg",
+    "stem": "3558217"
+  },
+  "pork_chop/2357113.jpg": {
+    "image": "data/val_caps_5perclass/pork_chop/2357113.jpg",
+    "class": "pork_chop",
+    "filename": "2357113.jpg",
+    "stem": "2357113"
+  },
+  "poutine/16093.jpg": {
+    "image": "data/val_caps_5perclass/poutine/16093.jpg",
+    "class": "poutine",
+    "filename": "16093.jpg",
+    "stem": "16093"
+  },
+  "poutine/2714211.jpg": {
+    "image": "data/val_caps_5perclass/poutine/2714211.jpg",
+    "class": "poutine",
+    "filename": "2714211.jpg",
+    "stem": "2714211"
+  },
+  "poutine/133176.jpg": {
+    "image": "data/val_caps_5perclass/poutine/133176.jpg",
+    "class": "poutine",
+    "filename": "133176.jpg",
+    "stem": "133176"
+  },
+  "poutine/2221688.jpg": {
+    "image": "data/val_caps_5perclass/poutine/2221688.jpg",
+    "class": "poutine",
+    "filename": "2221688.jpg",
+    "stem": "2221688"
+  },
+  "poutine/2854400.jpg": {
+    "image": "data/val_caps_5perclass/poutine/2854400.jpg",
+    "class": "poutine",
+    "filename": "2854400.jpg",
+    "stem": "2854400"
+  },
+  "prime_rib/2368970.jpg": {
+    "image": "data/val_caps_5perclass/prime_rib/2368970.jpg",
+    "class": "prime_rib",
+    "filename": "2368970.jpg",
+    "stem": "2368970"
+  },
+  "prime_rib/1693736.jpg": {
+    "image": "data/val_caps_5perclass/prime_rib/1693736.jpg",
+    "class": "prime_rib",
+    "filename": "1693736.jpg",
+    "stem": "1693736"
+  },
+  "prime_rib/3134437.jpg": {
+    "image": "data/val_caps_5perclass/prime_rib/3134437.jpg",
+    "class": "prime_rib",
+    "filename": "3134437.jpg",
+    "stem": "3134437"
+  },
+  "prime_rib/3734585.jpg": {
+    "image": "data/val_caps_5perclass/prime_rib/3734585.jpg",
+    "class": "prime_rib",
+    "filename": "3734585.jpg",
+    "stem": "3734585"
+  },
+  "prime_rib/92128.jpg": {
+    "image": "data/val_caps_5perclass/prime_rib/92128.jpg",
+    "class": "prime_rib",
+    "filename": "92128.jpg",
+    "stem": "92128"
+  },
+  "pulled_pork_sandwich/2286882.jpg": {
+    "image": "data/val_caps_5perclass/pulled_pork_sandwich/2286882.jpg",
+    "class": "pulled_pork_sandwich",
+    "filename": "2286882.jpg",
+    "stem": "2286882"
+  },
+  "pulled_pork_sandwich/535528.jpg": {
+    "image": "data/val_caps_5perclass/pulled_pork_sandwich/535528.jpg",
+    "class": "pulled_pork_sandwich",
+    "filename": "535528.jpg",
+    "stem": "535528"
+  },
+  "pulled_pork_sandwich/691641.jpg": {
+    "image": "data/val_caps_5perclass/pulled_pork_sandwich/691641.jpg",
+    "class": "pulled_pork_sandwich",
+    "filename": "691641.jpg",
+    "stem": "691641"
+  },
+  "pulled_pork_sandwich/3667726.jpg": {
+    "image": "data/val_caps_5perclass/pulled_pork_sandwich/3667726.jpg",
+    "class": "pulled_pork_sandwich",
+    "filename": "3667726.jpg",
+    "stem": "3667726"
+  },
+  "pulled_pork_sandwich/1062740.jpg": {
+    "image": "data/val_caps_5perclass/pulled_pork_sandwich/1062740.jpg",
+    "class": "pulled_pork_sandwich",
+    "filename": "1062740.jpg",
+    "stem": "1062740"
+  },
+  "ramen/65429.jpg": {
+    "image": "data/val_caps_5perclass/ramen/65429.jpg",
+    "class": "ramen",
+    "filename": "65429.jpg",
+    "stem": "65429"
+  },
+  "ramen/3807662.jpg": {
+    "image": "data/val_caps_5perclass/ramen/3807662.jpg",
+    "class": "ramen",
+    "filename": "3807662.jpg",
+    "stem": "3807662"
+  },
+  "ramen/251689.jpg": {
+    "image": "data/val_caps_5perclass/ramen/251689.jpg",
+    "class": "ramen",
+    "filename": "251689.jpg",
+    "stem": "251689"
+  },
+  "ramen/633807.jpg": {
+    "image": "data/val_caps_5perclass/ramen/633807.jpg",
+    "class": "ramen",
+    "filename": "633807.jpg",
+    "stem": "633807"
+  },
+  "ramen/1476855.jpg": {
+    "image": "data/val_caps_5perclass/ramen/1476855.jpg",
+    "class": "ramen",
+    "filename": "1476855.jpg",
+    "stem": "1476855"
+  },
+  "ravioli/158404.jpg": {
+    "image": "data/val_caps_5perclass/ravioli/158404.jpg",
+    "class": "ravioli",
+    "filename": "158404.jpg",
+    "stem": "158404"
+  },
+  "ravioli/2278795.jpg": {
+    "image": "data/val_caps_5perclass/ravioli/2278795.jpg",
+    "class": "ravioli",
+    "filename": "2278795.jpg",
+    "stem": "2278795"
+  },
+  "ravioli/1500712.jpg": {
+    "image": "data/val_caps_5perclass/ravioli/1500712.jpg",
+    "class": "ravioli",
+    "filename": "1500712.jpg",
+    "stem": "1500712"
+  },
+  "ravioli/1458260.jpg": {
+    "image": "data/val_caps_5perclass/ravioli/1458260.jpg",
+    "class": "ravioli",
+    "filename": "1458260.jpg",
+    "stem": "1458260"
+  },
+  "ravioli/364674.jpg": {
+    "image": "data/val_caps_5perclass/ravioli/364674.jpg",
+    "class": "ravioli",
+    "filename": "364674.jpg",
+    "stem": "364674"
+  },
+  "red_velvet_cake/1728589.jpg": {
+    "image": "data/val_caps_5perclass/red_velvet_cake/1728589.jpg",
+    "class": "red_velvet_cake",
+    "filename": "1728589.jpg",
+    "stem": "1728589"
+  },
+  "red_velvet_cake/2207799.jpg": {
+    "image": "data/val_caps_5perclass/red_velvet_cake/2207799.jpg",
+    "class": "red_velvet_cake",
+    "filename": "2207799.jpg",
+    "stem": "2207799"
+  },
+  "red_velvet_cake/228477.jpg": {
+    "image": "data/val_caps_5perclass/red_velvet_cake/228477.jpg",
+    "class": "red_velvet_cake",
+    "filename": "228477.jpg",
+    "stem": "228477"
+  },
+  "red_velvet_cake/377540.jpg": {
+    "image": "data/val_caps_5perclass/red_velvet_cake/377540.jpg",
+    "class": "red_velvet_cake",
+    "filename": "377540.jpg",
+    "stem": "377540"
+  },
+  "red_velvet_cake/1972764.jpg": {
+    "image": "data/val_caps_5perclass/red_velvet_cake/1972764.jpg",
+    "class": "red_velvet_cake",
+    "filename": "1972764.jpg",
+    "stem": "1972764"
+  },
+  "risotto/918671.jpg": {
+    "image": "data/val_caps_5perclass/risotto/918671.jpg",
+    "class": "risotto",
+    "filename": "918671.jpg",
+    "stem": "918671"
+  },
+  "risotto/2677070.jpg": {
+    "image": "data/val_caps_5perclass/risotto/2677070.jpg",
+    "class": "risotto",
+    "filename": "2677070.jpg",
+    "stem": "2677070"
+  },
+  "risotto/2052865.jpg": {
+    "image": "data/val_caps_5perclass/risotto/2052865.jpg",
+    "class": "risotto",
+    "filename": "2052865.jpg",
+    "stem": "2052865"
+  },
+  "risotto/74799.jpg": {
+    "image": "data/val_caps_5perclass/risotto/74799.jpg",
+    "class": "risotto",
+    "filename": "74799.jpg",
+    "stem": "74799"
+  },
+  "risotto/520140.jpg": {
+    "image": "data/val_caps_5perclass/risotto/520140.jpg",
+    "class": "risotto",
+    "filename": "520140.jpg",
+    "stem": "520140"
+  },
+  "samosa/2408934.jpg": {
+    "image": "data/val_caps_5perclass/samosa/2408934.jpg",
+    "class": "samosa",
+    "filename": "2408934.jpg",
+    "stem": "2408934"
+  },
+  "samosa/3470729.jpg": {
+    "image": "data/val_caps_5perclass/samosa/3470729.jpg",
+    "class": "samosa",
+    "filename": "3470729.jpg",
+    "stem": "3470729"
+  },
+  "samosa/3372260.jpg": {
+    "image": "data/val_caps_5perclass/samosa/3372260.jpg",
+    "class": "samosa",
+    "filename": "3372260.jpg",
+    "stem": "3372260"
+  },
+  "samosa/236058.jpg": {
+    "image": "data/val_caps_5perclass/samosa/236058.jpg",
+    "class": "samosa",
+    "filename": "236058.jpg",
+    "stem": "236058"
+  },
+  "samosa/1239544.jpg": {
+    "image": "data/val_caps_5perclass/samosa/1239544.jpg",
+    "class": "samosa",
+    "filename": "1239544.jpg",
+    "stem": "1239544"
+  },
+  "sashimi/1452331.jpg": {
+    "image": "data/val_caps_5perclass/sashimi/1452331.jpg",
+    "class": "sashimi",
+    "filename": "1452331.jpg",
+    "stem": "1452331"
+  },
+  "sashimi/553524.jpg": {
+    "image": "data/val_caps_5perclass/sashimi/553524.jpg",
+    "class": "sashimi",
+    "filename": "553524.jpg",
+    "stem": "553524"
+  },
+  "sashimi/2953908.jpg": {
+    "image": "data/val_caps_5perclass/sashimi/2953908.jpg",
+    "class": "sashimi",
+    "filename": "2953908.jpg",
+    "stem": "2953908"
+  },
+  "sashimi/2269776.jpg": {
+    "image": "data/val_caps_5perclass/sashimi/2269776.jpg",
+    "class": "sashimi",
+    "filename": "2269776.jpg",
+    "stem": "2269776"
+  },
+  "sashimi/1183040.jpg": {
+    "image": "data/val_caps_5perclass/sashimi/1183040.jpg",
+    "class": "sashimi",
+    "filename": "1183040.jpg",
+    "stem": "1183040"
+  },
+  "scallops/1012281.jpg": {
+    "image": "data/val_caps_5perclass/scallops/1012281.jpg",
+    "class": "scallops",
+    "filename": "1012281.jpg",
+    "stem": "1012281"
+  },
+  "scallops/2715630.jpg": {
+    "image": "data/val_caps_5perclass/scallops/2715630.jpg",
+    "class": "scallops",
+    "filename": "2715630.jpg",
+    "stem": "2715630"
+  },
+  "scallops/1625552.jpg": {
+    "image": "data/val_caps_5perclass/scallops/1625552.jpg",
+    "class": "scallops",
+    "filename": "1625552.jpg",
+    "stem": "1625552"
+  },
+  "scallops/570657.jpg": {
+    "image": "data/val_caps_5perclass/scallops/570657.jpg",
+    "class": "scallops",
+    "filename": "570657.jpg",
+    "stem": "570657"
+  },
+  "scallops/234668.jpg": {
+    "image": "data/val_caps_5perclass/scallops/234668.jpg",
+    "class": "scallops",
+    "filename": "234668.jpg",
+    "stem": "234668"
+  },
+  "seaweed_salad/1748300.jpg": {
+    "image": "data/val_caps_5perclass/seaweed_salad/1748300.jpg",
+    "class": "seaweed_salad",
+    "filename": "1748300.jpg",
+    "stem": "1748300"
+  },
+  "seaweed_salad/3185625.jpg": {
+    "image": "data/val_caps_5perclass/seaweed_salad/3185625.jpg",
+    "class": "seaweed_salad",
+    "filename": "3185625.jpg",
+    "stem": "3185625"
+  },
+  "seaweed_salad/3768235.jpg": {
+    "image": "data/val_caps_5perclass/seaweed_salad/3768235.jpg",
+    "class": "seaweed_salad",
+    "filename": "3768235.jpg",
+    "stem": "3768235"
+  },
+  "seaweed_salad/897328.jpg": {
+    "image": "data/val_caps_5perclass/seaweed_salad/897328.jpg",
+    "class": "seaweed_salad",
+    "filename": "897328.jpg",
+    "stem": "897328"
+  },
+  "seaweed_salad/3098264.jpg": {
+    "image": "data/val_caps_5perclass/seaweed_salad/3098264.jpg",
+    "class": "seaweed_salad",
+    "filename": "3098264.jpg",
+    "stem": "3098264"
+  },
+  "shrimp_and_grits/3707105.jpg": {
+    "image": "data/val_caps_5perclass/shrimp_and_grits/3707105.jpg",
+    "class": "shrimp_and_grits",
+    "filename": "3707105.jpg",
+    "stem": "3707105"
+  },
+  "shrimp_and_grits/1033632.jpg": {
+    "image": "data/val_caps_5perclass/shrimp_and_grits/1033632.jpg",
+    "class": "shrimp_and_grits",
+    "filename": "1033632.jpg",
+    "stem": "1033632"
+  },
+  "shrimp_and_grits/1499550.jpg": {
+    "image": "data/val_caps_5perclass/shrimp_and_grits/1499550.jpg",
+    "class": "shrimp_and_grits",
+    "filename": "1499550.jpg",
+    "stem": "1499550"
+  },
+  "shrimp_and_grits/1324326.jpg": {
+    "image": "data/val_caps_5perclass/shrimp_and_grits/1324326.jpg",
+    "class": "shrimp_and_grits",
+    "filename": "1324326.jpg",
+    "stem": "1324326"
+  },
+  "shrimp_and_grits/856812.jpg": {
+    "image": "data/val_caps_5perclass/shrimp_and_grits/856812.jpg",
+    "class": "shrimp_and_grits",
+    "filename": "856812.jpg",
+    "stem": "856812"
+  },
+  "spaghetti_bolognese/1754803.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_bolognese/1754803.jpg",
+    "class": "spaghetti_bolognese",
+    "filename": "1754803.jpg",
+    "stem": "1754803"
+  },
+  "spaghetti_bolognese/354355.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_bolognese/354355.jpg",
+    "class": "spaghetti_bolognese",
+    "filename": "354355.jpg",
+    "stem": "354355"
+  },
+  "spaghetti_bolognese/1188291.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_bolognese/1188291.jpg",
+    "class": "spaghetti_bolognese",
+    "filename": "1188291.jpg",
+    "stem": "1188291"
+  },
+  "spaghetti_bolognese/2758310.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_bolognese/2758310.jpg",
+    "class": "spaghetti_bolognese",
+    "filename": "2758310.jpg",
+    "stem": "2758310"
+  },
+  "spaghetti_bolognese/3709070.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_bolognese/3709070.jpg",
+    "class": "spaghetti_bolognese",
+    "filename": "3709070.jpg",
+    "stem": "3709070"
+  },
+  "spaghetti_carbonara/3536760.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_carbonara/3536760.jpg",
+    "class": "spaghetti_carbonara",
+    "filename": "3536760.jpg",
+    "stem": "3536760"
+  },
+  "spaghetti_carbonara/1671632.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_carbonara/1671632.jpg",
+    "class": "spaghetti_carbonara",
+    "filename": "1671632.jpg",
+    "stem": "1671632"
+  },
+  "spaghetti_carbonara/2888809.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_carbonara/2888809.jpg",
+    "class": "spaghetti_carbonara",
+    "filename": "2888809.jpg",
+    "stem": "2888809"
+  },
+  "spaghetti_carbonara/1599632.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_carbonara/1599632.jpg",
+    "class": "spaghetti_carbonara",
+    "filename": "1599632.jpg",
+    "stem": "1599632"
+  },
+  "spaghetti_carbonara/1197729.jpg": {
+    "image": "data/val_caps_5perclass/spaghetti_carbonara/1197729.jpg",
+    "class": "spaghetti_carbonara",
+    "filename": "1197729.jpg",
+    "stem": "1197729"
+  },
+  "spring_rolls/2402328.jpg": {
+    "image": "data/val_caps_5perclass/spring_rolls/2402328.jpg",
+    "class": "spring_rolls",
+    "filename": "2402328.jpg",
+    "stem": "2402328"
+  },
+  "spring_rolls/2671128.jpg": {
+    "image": "data/val_caps_5perclass/spring_rolls/2671128.jpg",
+    "class": "spring_rolls",
+    "filename": "2671128.jpg",
+    "stem": "2671128"
+  },
+  "spring_rolls/1178564.jpg": {
+    "image": "data/val_caps_5perclass/spring_rolls/1178564.jpg",
+    "class": "spring_rolls",
+    "filename": "1178564.jpg",
+    "stem": "1178564"
+  },
+  "spring_rolls/2617371.jpg": {
+    "image": "data/val_caps_5perclass/spring_rolls/2617371.jpg",
+    "class": "spring_rolls",
+    "filename": "2617371.jpg",
+    "stem": "2617371"
+  },
+  "spring_rolls/1949870.jpg": {
+    "image": "data/val_caps_5perclass/spring_rolls/1949870.jpg",
+    "class": "spring_rolls",
+    "filename": "1949870.jpg",
+    "stem": "1949870"
+  },
+  "steak/728020.jpg": {
+    "image": "data/val_caps_5perclass/steak/728020.jpg",
+    "class": "steak",
+    "filename": "728020.jpg",
+    "stem": "728020"
+  },
+  "steak/2268692.jpg": {
+    "image": "data/val_caps_5perclass/steak/2268692.jpg",
+    "class": "steak",
+    "filename": "2268692.jpg",
+    "stem": "2268692"
+  },
+  "steak/663014.jpg": {
+    "image": "data/val_caps_5perclass/steak/663014.jpg",
+    "class": "steak",
+    "filename": "663014.jpg",
+    "stem": "663014"
+  },
+  "steak/1588879.jpg": {
+    "image": "data/val_caps_5perclass/steak/1588879.jpg",
+    "class": "steak",
+    "filename": "1588879.jpg",
+    "stem": "1588879"
+  },
+  "steak/2761427.jpg": {
+    "image": "data/val_caps_5perclass/steak/2761427.jpg",
+    "class": "steak",
+    "filename": "2761427.jpg",
+    "stem": "2761427"
+  },
+  "strawberry_shortcake/3911942.jpg": {
+    "image": "data/val_caps_5perclass/strawberry_shortcake/3911942.jpg",
+    "class": "strawberry_shortcake",
+    "filename": "3911942.jpg",
+    "stem": "3911942"
+  },
+  "strawberry_shortcake/3160028.jpg": {
+    "image": "data/val_caps_5perclass/strawberry_shortcake/3160028.jpg",
+    "class": "strawberry_shortcake",
+    "filename": "3160028.jpg",
+    "stem": "3160028"
+  },
+  "strawberry_shortcake/619928.jpg": {
+    "image": "data/val_caps_5perclass/strawberry_shortcake/619928.jpg",
+    "class": "strawberry_shortcake",
+    "filename": "619928.jpg",
+    "stem": "619928"
+  },
+  "strawberry_shortcake/1846777.jpg": {
+    "image": "data/val_caps_5perclass/strawberry_shortcake/1846777.jpg",
+    "class": "strawberry_shortcake",
+    "filename": "1846777.jpg",
+    "stem": "1846777"
+  },
+  "strawberry_shortcake/2177781.jpg": {
+    "image": "data/val_caps_5perclass/strawberry_shortcake/2177781.jpg",
+    "class": "strawberry_shortcake",
+    "filename": "2177781.jpg",
+    "stem": "2177781"
+  },
+  "sushi/170336.jpg": {
+    "image": "data/val_caps_5perclass/sushi/170336.jpg",
+    "class": "sushi",
+    "filename": "170336.jpg",
+    "stem": "170336"
+  },
+  "sushi/1765452.jpg": {
+    "image": "data/val_caps_5perclass/sushi/1765452.jpg",
+    "class": "sushi",
+    "filename": "1765452.jpg",
+    "stem": "1765452"
+  },
+  "sushi/3010128.jpg": {
+    "image": "data/val_caps_5perclass/sushi/3010128.jpg",
+    "class": "sushi",
+    "filename": "3010128.jpg",
+    "stem": "3010128"
+  },
+  "sushi/1115131.jpg": {
+    "image": "data/val_caps_5perclass/sushi/1115131.jpg",
+    "class": "sushi",
+    "filename": "1115131.jpg",
+    "stem": "1115131"
+  },
+  "sushi/17704.jpg": {
+    "image": "data/val_caps_5perclass/sushi/17704.jpg",
+    "class": "sushi",
+    "filename": "17704.jpg",
+    "stem": "17704"
+  },
+  "tacos/2602786.jpg": {
+    "image": "data/val_caps_5perclass/tacos/2602786.jpg",
+    "class": "tacos",
+    "filename": "2602786.jpg",
+    "stem": "2602786"
+  },
+  "tacos/3157777.jpg": {
+    "image": "data/val_caps_5perclass/tacos/3157777.jpg",
+    "class": "tacos",
+    "filename": "3157777.jpg",
+    "stem": "3157777"
+  },
+  "tacos/706629.jpg": {
+    "image": "data/val_caps_5perclass/tacos/706629.jpg",
+    "class": "tacos",
+    "filename": "706629.jpg",
+    "stem": "706629"
+  },
+  "tacos/214761.jpg": {
+    "image": "data/val_caps_5perclass/tacos/214761.jpg",
+    "class": "tacos",
+    "filename": "214761.jpg",
+    "stem": "214761"
+  },
+  "tacos/228552.jpg": {
+    "image": "data/val_caps_5perclass/tacos/228552.jpg",
+    "class": "tacos",
+    "filename": "228552.jpg",
+    "stem": "228552"
+  },
+  "takoyaki/1806129.jpg": {
+    "image": "data/val_caps_5perclass/takoyaki/1806129.jpg",
+    "class": "takoyaki",
+    "filename": "1806129.jpg",
+    "stem": "1806129"
+  },
+  "takoyaki/868613.jpg": {
+    "image": "data/val_caps_5perclass/takoyaki/868613.jpg",
+    "class": "takoyaki",
+    "filename": "868613.jpg",
+    "stem": "868613"
+  },
+  "takoyaki/1582251.jpg": {
+    "image": "data/val_caps_5perclass/takoyaki/1582251.jpg",
+    "class": "takoyaki",
+    "filename": "1582251.jpg",
+    "stem": "1582251"
+  },
+  "takoyaki/2855639.jpg": {
+    "image": "data/val_caps_5perclass/takoyaki/2855639.jpg",
+    "class": "takoyaki",
+    "filename": "2855639.jpg",
+    "stem": "2855639"
+  },
+  "takoyaki/119195.jpg": {
+    "image": "data/val_caps_5perclass/takoyaki/119195.jpg",
+    "class": "takoyaki",
+    "filename": "119195.jpg",
+    "stem": "119195"
+  },
+  "tiramisu/3257595.jpg": {
+    "image": "data/val_caps_5perclass/tiramisu/3257595.jpg",
+    "class": "tiramisu",
+    "filename": "3257595.jpg",
+    "stem": "3257595"
+  },
+  "tiramisu/2131367.jpg": {
+    "image": "data/val_caps_5perclass/tiramisu/2131367.jpg",
+    "class": "tiramisu",
+    "filename": "2131367.jpg",
+    "stem": "2131367"
+  },
+  "tiramisu/199014.jpg": {
+    "image": "data/val_caps_5perclass/tiramisu/199014.jpg",
+    "class": "tiramisu",
+    "filename": "199014.jpg",
+    "stem": "199014"
+  },
+  "tiramisu/3216579.jpg": {
+    "image": "data/val_caps_5perclass/tiramisu/3216579.jpg",
+    "class": "tiramisu",
+    "filename": "3216579.jpg",
+    "stem": "3216579"
+  },
+  "tiramisu/2731284.jpg": {
+    "image": "data/val_caps_5perclass/tiramisu/2731284.jpg",
+    "class": "tiramisu",
+    "filename": "2731284.jpg",
+    "stem": "2731284"
+  },
+  "tuna_tartare/258514.jpg": {
+    "image": "data/val_caps_5perclass/tuna_tartare/258514.jpg",
+    "class": "tuna_tartare",
+    "filename": "258514.jpg",
+    "stem": "258514"
+  },
+  "tuna_tartare/2164010.jpg": {
+    "image": "data/val_caps_5perclass/tuna_tartare/2164010.jpg",
+    "class": "tuna_tartare",
+    "filename": "2164010.jpg",
+    "stem": "2164010"
+  },
+  "tuna_tartare/2148186.jpg": {
+    "image": "data/val_caps_5perclass/tuna_tartare/2148186.jpg",
+    "class": "tuna_tartare",
+    "filename": "2148186.jpg",
+    "stem": "2148186"
+  },
+  "tuna_tartare/1172669.jpg": {
+    "image": "data/val_caps_5perclass/tuna_tartare/1172669.jpg",
+    "class": "tuna_tartare",
+    "filename": "1172669.jpg",
+    "stem": "1172669"
+  },
+  "tuna_tartare/643050.jpg": {
+    "image": "data/val_caps_5perclass/tuna_tartare/643050.jpg",
+    "class": "tuna_tartare",
+    "filename": "643050.jpg",
+    "stem": "643050"
+  },
+  "waffles/1884998.jpg": {
+    "image": "data/val_caps_5perclass/waffles/1884998.jpg",
+    "class": "waffles",
+    "filename": "1884998.jpg",
+    "stem": "1884998"
+  },
+  "waffles/2981788.jpg": {
+    "image": "data/val_caps_5perclass/waffles/2981788.jpg",
+    "class": "waffles",
+    "filename": "2981788.jpg",
+    "stem": "2981788"
+  },
+  "waffles/2544151.jpg": {
+    "image": "data/val_caps_5perclass/waffles/2544151.jpg",
+    "class": "waffles",
+    "filename": "2544151.jpg",
+    "stem": "2544151"
+  },
+  "waffles/2303453.jpg": {
+    "image": "data/val_caps_5perclass/waffles/2303453.jpg",
+    "class": "waffles",
+    "filename": "2303453.jpg",
+    "stem": "2303453"
+  },
+  "waffles/1355650.jpg": {
+    "image": "data/val_caps_5perclass/waffles/1355650.jpg",
+    "class": "waffles",
+    "filename": "1355650.jpg",
+    "stem": "1355650"
+  }
+}
